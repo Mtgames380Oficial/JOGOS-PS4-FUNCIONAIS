@@ -1,2814 +1,551 @@
-{
-  "DATA": {
-    "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/BASE/UP0700-CUSA28863_00-ELDENRING0000000_BASE_00.pkg": {
-      "title_id": "CUSA28863",
-      "region": "EUR",
-      "name": "ELDEN RING",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/0Jz6uJLxOK7JOMMfcfHFBi1D.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/UPDATE/1.22/UP0700-CUSA28863_00-ELDENRING0000000_UPD_00.pkg": {
-      "title_id": "CUSA28863",
-      "region": "EUR",
-      "name": "ELDEN RING UPDATE",
-      "size": null,
-      "version": "1.22",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/0Jz6uJLxOK7JOMMfcfHFBi1D.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/DLC/UP0700-CUSA28863_00-ELDENRINGBONUS01.pkg": {
-      "title_id": "CUSA28863",
-      "region": "EUR",
-      "name": "ELDEN RING DLC - Gesto bônus (O Anel)",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/0Jz6uJLxOK7JOMMfcfHFBi1D.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/DLC/UP0700-CUSA28863_00-ELDENRINGBONUS02.pkg": {
-      "title_id": "CUSA28863",
-      "region": "EUR",
-      "name": "ELDEN RING DLC - Guia de Aventuras Digitais",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/0Jz6uJLxOK7JOMMfcfHFBi1D.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/DLC/UP0700-CUSA28863_00-ELDENRINGDLC0000.pkg": {
-      "title_id": "CUSA28863",
-      "region": "EUR",
-      "name": "ELDEN RING DLC - Sombra da Erdtree",
-      "size": null,
-      "version": "1.00",
-      "release": "2024",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/0Jz6uJLxOK7JOMMfcfHFBi1D.png"
-    },
-    "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/BASE/UP9000-CUSA11456_00-GHOSTSHIP0000000_BASE_00.pkg": {
-      "title_id": "CUSA11456",
-      "region": "EUR",
-      "name": "FANTASMA DE TSUCHIMA",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1c.png"
-    },
-    "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/BASE/UP9000-CUSA11456_00-GHOSTSHIP0000000_BASE_01.pkg": {
-      "title_id": "CUSA11456",
-      "region": "EUR",
-      "name": "FANTASMA DE TSUCHIMA PART 2",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1D.png"
-    },
-    "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/BASE/UP9000-CUSA11456_00-GHOSTSHIP0000000_BASE_02.pkg": {
-      "title_id": "CUSA11456",
-      "region": "EUR",
-      "name": "FANTASMA DE TSUCHIMA PART 3",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1D.png"
-    },
-    "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/UPDATE/2.24/UP9000-CUSA11456_00-GHOSTSHIP0000000_UPD_00.pkg": {
-      "title_id": "CUSA11456",
-      "region": "EUR",
-      "name": "FANTASMA DE TSUCHIMA UPDATE",
-      "size": null,
-      "version": "1.06",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1D.png"
-    },
-    "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTARMORSET000.pkg": {
-      "title_id": "CUSA11456",
-      "region": "EUR",
-      "name": "FANTASMA DE TSUCHIMA DLC - Armadura Especial",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1D.png"
-    },
-    "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTDIRECTORCUT.pkg": {
-      "title_id": "CUSA11456",
-      "region": "EUR",
-      "name": "FANTASMA DE TSUCHIMA DLC - VERSÃO DO DIRETOR (Aprimorada)",
-      "size": null,
-      "version": "1.00",
-      "release": "2021",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1D.png"
-    },
-    "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTHEALTHRECOV.pkg": {
-      "title_id": "CUSA11456",
-      "region": "EUR",
-      "name": "FANTASMA DE TSUCHIMA DLC - Melhor Recuperação da Saúde",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1D.png"
-    },
-    "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTHORSESADDLE.pkg": {
-      "title_id": "CUSA11456",
-      "region": "EUR",
-      "name": "FANTASMA DE TSUCHIMA DLC - Selim Especial",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1D.png"
-    },
-    "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTHORSESKIN00.pkg": {
-      "title_id": "CUSA11456",
-      "region": "EUR",
-      "name": "FANTASMA DE TSUCHIMA DLC - Cavalo Especial",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1D.png"
-    },
-    "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTLEGENDSMODE.pkg": {
-      "title_id": "CUSA11456",
-      "region": "EUR",
-      "name": "FANTASMA DE TSUCHIMA DLC - Lendas (Desbloquear)",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1D.png"
-    },
-    "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTMASKSKIN000.pkg": {
-      "title_id": "CUSA11456",
-      "region": "EUR",
-      "name": "FANTASMA DE TSUCHIMA DLC - Máscara Dourada",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1D.png"
-    },
-    "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTSWORDSKIN00.pkg": {
-      "title_id": "CUSA11456",
-      "region": "EUR",
-      "name": "FANTASMA DE TSUCHIMA DLC - Espada Especial",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1D.png"
-    },
-    "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTTECHNIQUEPT.pkg": {
-      "title_id": "CUSA11456",
-      "region": "EUR",
-      "name": "FANTASMA DE TSUCHIMA DLC - Ponto Técnico Extra",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1D.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_00.pkg": {
-      "title_id": "CUSA12047",
-      "region": "USA",
-      "name": "SEKIRO SHADOWS DIE TWICE PART 1",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_01.pkg": {
-      "title_id": "CUSA12047",
-      "region": "USA",
-      "name": "SEKIRO SHADOWS DIE TWICE PART 2",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_02.pkg": {
-      "title_id": "CUSA12047",
-      "region": "USA",
-      "name": "SEKIRO SHADOWS DIE TWICE PART 3",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_03.pkg": {
-      "title_id": "CUSA12047",
-      "region": "USA",
-      "name": "SEKIRO SHADOWS DIE TWICE PART 4",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_04.pkg": {
-      "title_id": "CUSA12047",
-      "region": "USA",
-      "name": "SEKIRO SHADOWS DIE TWICE PART 5",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_05.pkg": {
-      "title_id": "CUSA12047",
-      "region": "USA",
-      "name": "SEKIRO SHADOWS DIE TWICE PART 6",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_06.pkg": {
-      "title_id": "CUSA12047",
-      "region": "USA",
-      "name": "SEKIRO SHADOWS DIE TWICE PART 7",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_07.pkg": {
-      "title_id": "CUSA12047",
-      "region": "USA",
-      "name": "SEKIRO SHADOWS DIE TWICE PART 8",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_08.pkg": {
-      "title_id": "CUSA12047",
-      "region": "USA",
-      "name": "SEKIRO SHADOWS DIE TWICE PART 9",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_09.pkg": {
-      "title_id": "CUSA12047",
-      "region": "USA",
-      "name": "SEKIRO SHADOWS DIE TWICE PART 10",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_10.pkg": {
-      "title_id": "CUSA12047",
-      "region": "USA",
-      "name": "SEKIRO SHADOWS DIE TWICE PART 11",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_11.pkg": {
-      "title_id": "CUSA12047",
-      "region": "USA",
-      "name": "SEKIRO SHADOWS DIE TWICE PART 12",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/UPDATE/1.06/UP0002-CUSA12047_00-SEKIROGAME000001_UPD_00.pkg": {
-      "title_id": "CUSA12047",
-      "region": "USA",
-      "name": "SEKIRO SHADOWS DIE TWICE UPDATE PART 1",
-      "size": null,
-      "version": "1.06",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/UPDATE/1.06/UP0002-CUSA12047_00-SEKIROGAME000001_UPD_01.pkg": {
-      "title_id": "CUSA12047",
-      "region": "USA",
-      "name": "SEKIRO SHADOWS DIE TWICE UPDATE PART 2",
-      "size": null,
-      "version": "1.06",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/UPDATE/1.06/UP0002-CUSA12047_00-SEKIROGAME000001_UPD_02.pkg": {
-      "title_id": "CUSA12047",
-      "region": "USA",
-      "name": "SEKIRO SHADOWS DIE TWICE UPDATE PART 3",
-      "size": null,
-      "version": "1.06",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/UPDATE/1.06/UP0002-CUSA12047_00-SEKIROGAME000001_UPD_03.pkg": {
-      "title_id": "CUSA12047",
-      "region": "USA",
-      "name": "SEKIRO SHADOWS DIE TWICE UPDATE PART 4",
-      "size": null,
-      "version": "1.06",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/UPDATE/1.06/UP0002-CUSA12047_00-SEKIROGAME000001_UPD_04.pkg": {
-      "title_id": "CUSA12047",
-      "region": "USA",
-      "name": "SEKIRO SHADOWS DIE TWICE UPDATE PART 5",
-      "size": null,
-      "version": "1.06",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/BASE/UP1018-CUSA12824_00-HOGWARTSLEGACY01_BASE_00.pkg": {
-      "title_id": "CUSA12824",
-      "region": "EUR",
-      "name": "HOGWARTS LEGACY",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/UPDATE/1.05/UP1018-CUSA12824_00-HOGWARTSLEGACY01_UPD_00.pkg": {
-      "title_id": "CUSA12824",
-      "region": "EUR",
-      "name": "HOGWARTS LEGACY UPDATE",
-      "size": null,
-      "version": "1.05",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-PREO01ALLP00R0HD.pkg": {
-      "title_id": "CUSA12824",
-      "region": "EUR",
-      "name": "HOGWARTS LEGACY DLC - Montagem de Hipogrifo de Ônix",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-PREO02AMZN00R0VO.pkg": {
-      "title_id": "CUSA12824",
-      "region": "EUR",
-      "name": "HOGWARTS LEGACY DLC - Chapéu de Astrônomo",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-PREO03SONY00P0HD.pkg": {
-      "title_id": "CUSA12824",
-      "region": "EUR",
-      "name": "HOGWARTS LEGACY DLC - Receita da Poção Felix Felicis",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-STOR01ALLP00R0VP.pkg": {
-      "title_id": "CUSA12824",
-      "region": "EUR",
-      "name": "HOGWARTS LEGACY DLC - Pacote de Artes das Trevas",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-STOR02ALLP00R0VO.pkg": {
-      "title_id": "CUSA12824",
-      "region": "EUR",
-      "name": "HOGWARTS LEGACY DLC - Chapéu de Guarnição das Artes das Trevas",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-STOR03SONY00P0HD.pkg": {
-      "title_id": "CUSA12824",
-      "region": "EUR",
-      "name": "HOGWARTS LEGACY DLC - Loja Assombrada de Hogsmeade",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-STOR07ALLP00R0VO.pkg": {
-      "title_id": "CUSA12824",
-      "region": "EUR",
-      "name": "HOGWARTS LEGACY DLC - Chapéu de Guarnição das Artes das Trevas 2",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/BASE/UP9000-CUSA07408_00-00000000GODOFWAR_BASE_00.pkg": {
-      "title_id": "CUSA07408",
-      "region": "EUR",
-      "name": "GOD OF WAR 2018",
-      "size": null,
-      "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/UPDATE/1.35/UP9000-CUSA07408_00-00000000GODOFWAR_UPD_00.pkg": {
-      "title_id": "CUSA07408",
-      "region": "EUR",
-      "name": "GOD OF WAR 2018 UPDATE",
-      "size": null,
-      "version": "1.35",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00010000000000.pkg": {
-      "title_id": "CUSA07408",
-      "region": "EUR",
-      "name": "GOD OF WAR DLC - Broqueteiro da Forja",
-      "size": null,
-      "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00020000000000.pkg": {
-      "title_id": "CUSA07408",
-      "region": "EUR",
-      "name": "GOD OF WAR DLC - Escudo da Alma Élfica Brilhante",
-      "size": null,
-      "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00030000000000.pkg": {
-      "title_id": "CUSA07408",
-      "region": "EUR",
-      "name": "GOD OF WAR DLC - Dökkenshieldr",
-      "size": null,
-      "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00040000000000.pkg": {
-      "title_id": "CUSA07408",
-      "region": "EUR",
-      "name": "GOD OF WAR DLC - O Guardião do Exilado",
-      "size": null,
-      "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00050000000000.pkg": {
-      "title_id": "CUSA07408",
-      "region": "EUR",
-      "name": "GOD OF WAR DLC - Defensor dos Escolhidos",
-      "size": null,
-      "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00060000000000.pkg": {
-      "title_id": "CUSA07408",
-      "region": "EUR",
-      "name": "GOD OF WAR DLC - Graça do Andarilho",
-      "size": null,
-      "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00070000000000.pkg": {
-      "title_id": "CUSA07408",
-      "region": "EUR",
-      "name": "GOD OF WAR DLC - Talismã da Sorte das Eras (Aumento de XP)",
-      "size": null,
-      "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-POA0010000000000.pkg": {
-      "title_id": "CUSA07408",
-      "region": "EUR",
-      "name": "GOD OF WAR DLC - Conjunto de Armadura do Juramento da Morte",
-      "size": null,
-      "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/BASE/UP9000-CUSA34384_00-GOWRAGNAROK00000_BASE_00.pkg": {
-      "title_id": "CUSA34384",
-      "region": "EUR",
-      "name": "GOD OF WAR RAGNAROK",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1117/hguxDixf0FzALJnXNCc10Tdo.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/UPDATE/6.05/UP9000-CUSA34384_00-GOWRAGNAROK00000_UPD_00.pkg": {
-      "title_id": "CUSA34384",
-      "region": "EUR",
-      "name": "GOD OF WAR RAGNAROK UPDATE",
-      "size": null,
-      "version": "6.05",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1117/hguxDixf0FzALJnXNCc10Tdo.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/DLC/UP9000-CUSA34384_00-GOWRAGNAROKDDE00.pkg": {
-      "title_id": "CUSA34384",
-      "region": "EUR",
-      "name": "GOD OF WAR RAGNAROK DLC - Edição Digital Deluxe",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1117/hguxDixf0FzALJnXNCc10Tdo.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/DLC/UP9000-CUSA34384_00-GOWRAGNAROKPREOR.pkg": {
-      "title_id": "CUSA34384",
-      "region": "EUR",
-      "name": "GOD OF WAR RAGNAROK DLC - Itens da Edição de Lançamento",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1117/hguxDixf0FzALJnXNCc10Tdo.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/DLC/UP9000-CUSA34384_00-GOWRDLCCONTENT00.pkg": {
-      "title_id": "CUSA34384",
-      "region": "EUR",
-      "name": "GOD OF WAR RAGNAROK DLC - Valhalla",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1117/hguxDixf0FzALJnXNCc10Tdo.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/BASE/UP0102-CUSA33387_00-RE4RMAINGAME0000_BASE_00.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/UPDATE/1.11/UP0102-CUSA33387_00-RE4RMAINGAME0000_UPD_00.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE UPDATE",
-      "size": null,
-      "version": "1.11",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000001.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Caminhos Separados",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000002.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Mapa do Tesouro: Expansão",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000004.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Leon & Ashley Costumes: Casual",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000005.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Leon & Ashley Costumes: Romântico",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000006.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Fantasia e filtro de Leon: Herói",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000007.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Fantasia e filtro de Leon: Vilão",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000008.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Troca da trilha sonora da versão original",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000009.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Arma de Luxo: Sentinela Nove",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000010.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Arma de Luxo: Abalador de Crânios",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000011.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Acessório Leon: Óculos de Sol (Esportivos)",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000012.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Pasta de Attaché: Ouro",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000013.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Pasta de Attaché: Clássica",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000014.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Pingente: Munição de pistola",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000015.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Encanto: Erva Verde",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000016.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Os Mercenários",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000017.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Bilhete de Aprimoramento Exclusivo de Arma x1 (A)",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000018.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Bilhete de Aprimoramento Exclusivo de Arma x1 (B)",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000019.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Bilhete de Aprimoramento Exclusivo de Arma x1 (C)",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000020.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Bilhete de Aprimoramento Exclusivo de Arma x1 (D)",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000021.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Bilhete de Aprimoramento Exclusivo de Arma x1 (E)",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000022.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Bilhete de Aprimoramento Exclusivo de Arma x1 (F)",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000023.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Bilhete de Aprimoramento Exclusivo de Arma x3 (A)",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000024.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Bilhete de Aprimoramento Exclusivo de Arma x3 (B)",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000025.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Bilhete de Aprimoramento Exclusivo de Arma x3 (C)",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000026.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Bilhete de Aprimoramento Exclusivo de Arma x3 (D)",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000027.pkg": {
-      "title_id": "CUSA33387",
-      "region": "EUR",
-      "name": "RESIDENT EVIL 4 REMAKE DLC - Bilhete de Aprimoramento Exclusivo de Arma x5 (A)",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/BASE/UP9000-CUSA07820_00-THELASTOFUSPART2_BASE_00.pkg": {
-      "title_id": "CUSA07820",
-      "region": "EUR",
-      "name": "THE LAST OF US PART II",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/UPDATE/1.09/UP9000-CUSA07820_00-THELASTOFUSPART2_UPD_00.pkg": {
-      "title_id": "CUSA07820",
-      "region": "EUR",
-      "name": "THE LAST OF US PART II UPDATE",
-      "size": null,
-      "version": "1.09",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/DLC/UP9000-CUSA07820_00-T2PREO0000000000-A0000-V0100-DIURYDUARTE.pkg": {
-      "title_id": "CUSA07820",
-      "region": "EUR",
-      "name": "THE LAST OF US PART II DLC - Pacote Bônus",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/BASE/UP2746-CUSA14046_00-WWZTHEGAME201800_BASE_0.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z PART 1",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/BASE/UP2746-CUSA14046_00-WWZTHEGAME201800_BASE_1.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z PART 2",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/BASE/UP2746-CUSA14046_00-WWZTHEGAME201800_BASE_2.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z PART 3",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/BASE/UP2746-CUSA14046_00-WWZTHEGAME201800_BASE_3.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z PART 4",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_00.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 1",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_01.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 2",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_02.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 3",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_03.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 4",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_04.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 5",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_05.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 6",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_06.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 7",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_07.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 8",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_08.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 9",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_09.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 10",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_10.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 11",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_11.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 12",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_12.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 13",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_13.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 14",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_14.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 15",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_15.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 16",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_16.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 17",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_17.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 18",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_18.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 19",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_19.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 20",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_20.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 21",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_21.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 22",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_22.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 23",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_23.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 24",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_24.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z UPDATE PART 25",
-      "size": null,
-      "version": "1.69",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCDESERT0000000.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote de Armas Defensores do Deserto",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCGOLDENBLOOM00.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote de Skins de Armas Flor Dourada",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCMIAMI00000000.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote de Skins de Armas do Vício Mortal",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCPEP0000000000.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote de Skins de Armas Crânios Ardentes",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCRACE000000000.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote de Skins de Armas Volta da Vitória",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCRAT0000000000.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote de Skins de Armas Rat Packs",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCRAVEN00000000.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote de Skins de Armas Raven",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCVALLEY0000000.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Episódio do Vale do Zeke",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-PREAPDLC00000000.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote de Skins de Personagens Pré-Apocalípticos",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZADLCIZZYSKIN0.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote de Skins Chibi Izzy",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZADLCKIMIKOSKN.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote de Skins Chibi Kimiko",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZADLCVEGASEP00.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Episódio Apocalipse de Sin City",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZADLCVEGASSKIN.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote de Skins Vegas",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZCURRENCY20180.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Moeda",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZDLCAM000000US.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Atualização para Aftermath",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZEXPLORER000US.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote de Skins de Armas de Explorador",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZSEASONPASSUS1.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Passe de Temporada",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN000.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote de Armas Lobo",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN203.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote de Armas de Risco Biológico",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN302.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote das Forças de Operações Especiais",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN402.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - O Pacote dos Profissionais",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN502.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote Heróis de Guerra",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN602.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Kit de Últimos Socorros",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN702.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Episódio de Marselha",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN802.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote de Armas Exclusivas",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZZEKEDLC0000US.pkg": {
-      "title_id": "CUSA14046",
-      "region": "USA",
-      "name": "WORLD WAR Z DLC - Pacote de Armas Zeke Hunter",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
-    },
-    "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/BASE/EP9000-CUSA09175_00-DAYSGONECOMPLETE_BASE_00.pkg": {
-      "title_id": "CUSA09175",
-      "region": "EUR",
-      "name": "DAYS GONE",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1204/wYL4v2r8uMQFvVTJlfuj8ICk.png"
-    },
-    "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/UPDATE/1.84/EP9000-CUSA09175_00-DAYSGONECOMPLETE_UPD_00.pkg": {
-      "title_id": "CUSA09175",
-      "region": "EUR",
-      "name": "DAYS GONE UPDATE",
-      "size": null,
-      "version": "1.84",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1204/wYL4v2r8uMQFvVTJlfuj8ICk.png"
-    },
-    "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/DLC/EP9000-CUSA09175_00-DAYSGONEPREBONUS.pkg": {
-      "title_id": "CUSA09175",
-      "region": "EUR",
-      "name": "DAYS GONE DLC - Bônus de pré-venda",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1204/wYL4v2r8uMQFvVTJlfuj8ICk.png"
-    },
-    "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/DLC/EP9000-CUSA09175_00-DAYSGONECEBONUS1.pkg": {
-      "title_id": "CUSA09175",
-      "region": "EUR",
-      "name": "DAYS GONE DLC - Skins de Bicicleta / Desbloqueio Antecipado da Habilidade Chave Inglesa",
-      "size": null,
-      "version": "1.00",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1204/wYL4v2r8uMQFvVTJlfuj8ICk.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/BASE/UP0002-CUSA23827_00-COREGAME00000001.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_00.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III UPDATE PART 1",
-      "size": null,
-      "version": "1.33",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_01.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III UPDATE PART 2",
-      "size": null,
-      "version": "1.33",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_02.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III UPDATE PART 3",
-      "size": null,
-      "version": "1.33",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_03.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III UPDATE PART 4",
-      "size": null,
-      "version": "1.33",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_04.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III UPDATE PART 5",
-      "size": null,
-      "version": "1.33",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_05.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III UPDATE PART 6",
-      "size": null,
-      "version": "1.33",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_06.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III UPDATE PART 7",
-      "size": null,
-      "version": "1.33",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_07.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III UPDATE PART 8",
-      "size": null,
-      "version": "1.33",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_08.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III UPDATE PART 9",
-      "size": null,
-      "version": "1.33",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_09.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III UPDATE PART 10",
-      "size": null,
-      "version": "1.33",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_10.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III UPDATE PART 11",
-      "size": null,
-      "version": "1.33",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_11.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III UPDATE PART 12",
-      "size": null,
-      "version": "1.33",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_12.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III UPDATE PART 13",
-      "size": null,
-      "version": "1.33",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_00.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 1 PART 1",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_01.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 1 PART 2",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_02.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 1 PART 3",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_03.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 1 PART 4",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_04.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 1 PART 5",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_05.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 1 PART 6",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_06.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 1 PART 7",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_07.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 1 PART 8",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_08.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 1 PART 9",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_09.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 1 PART 10",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_00.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 2 PART 1",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_01.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 2 PART 2",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_02.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 2 PART 3",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_03.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 2 PART 4",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_04.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 2 PART 5",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_05.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 2 PART 6",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_06.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 2 PART 7",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_07.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 2 PART 8",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_08.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 2 PART 9",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_09.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote de Campanha 2 PART 10",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Game%20Stub%2001/UP0002-CUSA23827_00-CODMW3STUB000001.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Esboço de Jogo 01",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Game%20Stub%2002/UP0002-CUSA23827_00-CODMW3STUB000002.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Esboço de Jogo 02",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Game%20Stub%2003/UP0002-CUSA23827_00-CODMW3STUB000003.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Esboço de Jogo 03",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Game%20Stub%2004/UP0002-CUSA23827_00-CODMW3STUB000004.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Esboço de Jogo 04",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Game%20Stub%2005/UP0002-CUSA23827_00-CODMW3STUB000005.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Esboço de Jogo 05",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_00.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote Multijogador PART 1",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_01.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote Multijogador PART 2",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_02.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote Multijogador PART 3",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_03.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote Multijogador PART 4",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_04.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote Multijogador PART 5",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_05.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote Multijogador PART 6",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_06.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote Multijogador PART 7",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_07.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote Multijogador PART 8",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_08.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote Multijogador PART 9",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_09.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote Multijogador PART 10",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_10.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote Multijogador PART 11",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_11.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Pacote Multijogador PART 12",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/PS4%20Disc%20License/UP0002-CUSA23827_00-CODMW3PS4DISC000.pkg": {
-      "title_id": "CUSA23827",
-      "region": "USA",
-      "name": "CALL OF DUTY MODERN WARFARE III DLC - Licença de Disco PS4",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/BASE/UP4497-CUSA16596_00-0000000000000004_BASE_00.pkg": {
-      "title_id": "CUSA16596",
-      "region": "EUR",
-      "name": "CYBERPUNK 2077",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/UPDATE/1.61/UP4497-CUSA16596_00-0000000000000004_UPD_00.pkg": {
-      "title_id": "CUSA16596",
-      "region": "EUR",
-      "name": "CYBERPUNK 2077 UPDATE",
-      "size": null,
-      "version": "1.61",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/BASE/UP9000-CUSA10237_00-HRZCE00000000000_BASE_00.pkg": {
-      "title_id": "CUSA10237",
-      "region": "EUR",
-      "name": "HORIZON ZERO DAWN COMPLETE EDITION",
-      "size": null,
-      "version": "1.00",
-      "release": "2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1018/9erXiwu0ozgKGPIUVTuy2siN.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/UPDATE/1.54/UP9000-CUSA10237_00-HRZCE00000000000_UPD_00.pkg": {
-      "title_id": "CUSA10237",
-      "region": "EUR",
-      "name": "HORIZON ZERO DAWN COMPLETE EDITION UPDATE",
-      "size": null,
-      "version": "1.54",
-      "release": "2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1018/9erXiwu0ozgKGPIUVTuy2siN.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_00.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 1",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_01.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 2",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_02.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 3",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_03.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 4",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_04.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 5",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_05.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 6",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_06.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 7",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_07.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 8",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_08.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 9",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_09.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 10",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_10.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 11",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_11.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 12",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_12.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 13",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_13.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 14",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_14.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 15",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_15.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 16",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_16.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 17",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_17.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 18",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_18.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 19",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_19.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 20",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_20.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 21",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_21.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 22",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_22.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 23",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_23.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 24",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_24.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 25",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_25.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 26",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_26.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 27",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_27.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 28",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_28.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 29",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_29.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 30",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_30.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 31",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_31.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA PART 32",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/UPDATE/1.09/UP1018-CUSA13794_00-LEGOSWTSS0000000_UPD_00.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA UPDATE PART 1",
-      "size": null,
-      "version": "1.09",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/UPDATE/1.09/UP1018-CUSA13794_00-LEGOSWTSS0000000_UPD_01.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA UPDATE PART 2",
-      "size": null,
-      "version": "1.09",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/UPDATE/1.09/UP1018-CUSA13794_00-LEGOSWTSS0000000_UPD_02.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS THE SKYWALKER SAGA UPDATE PART 3",
-      "size": null,
-      "version": "1.09",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Book%20of%20Boba%20Fett%20Pack/UP1018-CUSA13794_00-BOBAFETTPACK0001.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS DLC - Pacote Livro de Boba Fett",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Classic%20Obi-Wan%20Kenobi/UP1018-CUSA13794_00-OBIWANPACK000001.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS DLC - Obi-Wan Kenobi Clássico",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Rogue%20One:%20A%20Star%20Wars%20Story%20Character%20Pack/UP1018-CUSA13794_00-ROGUEONEPACK0001.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS DLC - Pacote de Personagens de Rogue One: Uma História Star Wars",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Solo:%20A%20Star%20Wars%20Story%20Character%20Pack/UP1018-CUSA13794_00-SOLOPACK00000001.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS DLC - Pacote de Personagens de Solo: Uma História Star Wars",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Bad%20Batch%20Character%20Pack/UP1018-CUSA13794_00-BADBATCHPACK0001.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS DLC - Pacote de Personagens do Bad Batch",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Mandalorian%20Season%201%20Character%20Pack/UP1018-CUSA13794_00-MANDALORIANPACK1.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS DLC - Pacote de Personagens da 1ª Temporada de The Mandalorian",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Mandalorian%20Season%202%20Character%20Pack/UP1018-CUSA13794_00-MANDALORIANPACK2.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS DLC - Pacote de Personagens da 2ª Temporada de The Mandalorian",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Andor%20Character%20Pack/UP1018-CUSA13794_00-ANDORPACK0000001.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS DLC - Pacote de Personagens Andor da Saga Skywalker",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Classic%20Character%20Pack/UP1018-CUSA13794_00-CLASSICPACK00001.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS DLC - Pacote de Personagens Clássicos da Saga Skywalker",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Obi-Wan%20Kenobi%20Character%20Pack/UP1018-CUSA13794_00-KENOBIPACK000001.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS DLC - Pacote de Personagens Obi-Wan Kenobi da Saga Skywalker",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Rebels%20Character%20Pack/UP1018-CUSA13794_00-REBELPACK0000001.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS DLC - Pacote de Personagens Rebeldes da Saga Skywalker",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Summer%20Vacation%20Character%20Pack/UP1018-CUSA13794_00-HOLIDAYPACK00001.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS DLC - Pacote de Personagens de Férias de Verão da Saga Skywalker",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20The%20Clone%20Wars%20Character%20Pack/UP1018-CUSA13794_00-CLONEWARSPACK001.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS DLC - Pacote de Personagens da Saga Skywalker: The Clone Wars",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Trooper%20Pack/UP1018-CUSA13794_00-STORMTROOPERPACK.pkg": {
-      "title_id": "CUSA13794",
-      "region": "EUR",
-      "name": "LEGO STAR WARS DLC - Pacote de Soldados da Saga Skywalker",
-      "size": null,
-      "version": "1.00",
-      "release": "2022",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/BASE/UP0006-CUSA33778_00-APPLEJACKGAME000_BASE_00.pkg": {
-      "title_id": "CUSA33778",
-      "region": "EUR",
-      "name": "STAR WARS JEDI SURVIVOR",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1016/47becbe467e18575f71429abbaec9af707865744b825f34d.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/UPDATE/1.03/UP0006-CUSA33778_00-APPLEJACKGAME000_UPD_00.pkg": {
-      "title_id": "CUSA33778",
-      "region": "EUR",
-      "name": "STAR WARS JEDI SURVIVOR UPDATE",
-      "size": null,
-      "version": "1.03",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1016/47becbe467e18575f71429abbaec9af707865744b825f34d.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/BASE/UP9000-CUSA02299_00-MARVELSSPIDERMAN_BASE_00.pkg": {
-      "title_id": "CUSA02299",
-      "region": "EUR",
-      "name": "MARVELS SPIDER-MAN GAME OF THE YEAR EDITION",
-      "size": null,
-      "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/UPDATE/1.19/UP9000-CUSA02299_00-MARVELSSPIDERMAN_UPD_00.pkg": {
-      "title_id": "CUSA02299",
-      "region": "EUR",
-      "name": "MARVELS SPIDER-MAN GAME OF THE YEAR EDITION UPDATE",
-      "size": null,
-      "version": "1.19",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-000000000000DLC1-A0000-V0100.pkg": {
-      "title_id": "CUSA02299",
-      "region": "EUR",
-      "name": "MARVELS SPIDER-MAN DLC - O Assalto",
-      "size": null,
-      "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-000000000000DLC2-A0000-V0100.pkg": {
-      "title_id": "CUSA02299",
-      "region": "EUR",
-      "name": "MARVELS SPIDER-MAN DLC - Guerras Territoriais",
-      "size": null,
-      "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-000000000000DLC3-A0000-V0100.pkg": {
-      "title_id": "CUSA02299",
-      "region": "EUR",
-      "name": "MARVELS SPIDER-MAN DLC - Lado Bom",
-      "size": null,
-      "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-00000000PREORDER-A0000-V0100.pkg": {
-      "title_id": "CUSA02299",
-      "region": "EUR",
-      "name": "MARVELS SPIDER-MAN DLC - Bônus de pré-venda",
-      "size": null,
-      "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/BASE/UP9000-CUSA17722_00-MARVELSSMMORALES_BASE.pkg": {
-      "title_id": "CUSA17722",
-      "region": "EUR",
-      "name": "MARVELS SPIDER-MAN MILES MORALES",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/UPDATE/1.14/UP9000-CUSA17722_00-MARVELSSMMORALES_UPD.pkg": {
-      "title_id": "CUSA17722",
-      "region": "EUR",
-      "name": "MARVELS SPIDER-MAN MILES MORALES UPDATE",
-      "size": null,
-      "version": "1.14",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTGRAVITYWELL00.pkg": {
-      "title_id": "CUSA17722",
-      "region": "EUR",
-      "name": "MARVELS SPIDER-MAN MILES MORALES DLC - Dispositivo de Poço Gravitacional",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTPLUSTHREEPTSX.pkg": {
-      "title_id": "CUSA17722",
-      "region": "EUR",
-      "name": "MARVELS SPIDER-MAN MILES MORALES DLC - Três Pontos de Habilidade",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTSPIDVERSESUIT.pkg": {
-      "title_id": "CUSA17722",
-      "region": "EUR",
-      "name": "MARVELS SPIDER-MAN MILES MORALES DLC - Traje do Homem-Aranha: No Aranhaverso",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTTRACKSUIT0000.pkg": {
-      "title_id": "CUSA17722",
-      "region": "EUR",
-      "name": "MARVELS SPIDER-MAN MILES MORALES DLC - Agasalho Esportivo",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/BASE/UP0006-CUSA52342_00-EASPORTSFC2026BG_BASE_00.pkg": {
-      "title_id": "CUSA52342",
-      "region": "EUR",
-      "name": "EA SPORTS FC 26",
-      "size": null,
-      "version": "1.00",
-      "release": "2025",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1617/2e757ffb0a6bb4b91af84db64e0183d725e56e5354f45eba.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/UPDATE/1.09/UP0006-CUSA52342_00-EASPORTSFC2026BG_UPD_00.pkg": {
-      "title_id": "CUSA52342",
-      "region": "EUR",
-      "name": "EA SPORTS FC 26 UPDATE",
-      "size": null,
-      "version": "1.09",
-      "release": "2025",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1617/2e757ffb0a6bb4b91af84db64e0183d725e56e5354f45eba.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/DLC/UP0006-CUSA52342_00-FULLGAMEUNLOCK00.pkg": {
-      "title_id": "CUSA52342",
-      "region": "EUR",
-      "name": "EA SPORTS FC 26 DLC - Desbloqueio do Jogo Completo",
-      "size": null,
-      "version": "1.00",
-      "release": "2025",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1617/2e757ffb0a6bb4b91af84db64e0183d725e56e5354f45eba.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/BASE/UP0700-CUSA06381_00-NARUTOUNS4RTB000_BASE_00.pkg": {
-      "title_id": "CUSA06381",
-      "region": "EUR",
-      "name": "NARUTO SHIPPUDEN ULTIMATE NINJA STORM 4 ROAD TO BORUTO",
-      "size": null,
-      "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/UP0700/CUSA06381_00/leBwhHZ307kxd3oaMKAKRnGRa2TimjcK.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/UPDATE/1.05/UP0700-CUSA06381_00-NARUTOUNS4RTB000_UPD_00.pkg": {
-      "title_id": "CUSA06381",
-      "region": "EUR",
-      "name": "NARUTO SHIPPUDEN ULTIMATE NINJA STORM 4 ROAD TO BORUTO UPDATE",
-      "size": null,
-      "version": "1.05",
-      "release": "2020",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/UP0700/CUSA06381_00/leBwhHZ307kxd3oaMKAKRnGRa2TimjcK.png"
-    },
-    "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/BASE/EP0001-CUSA00462_00-FC4GAMEPS4000001_BASE_00.pkg": {
-      "title_id": "CUSA00462",
-      "region": "USA",
-      "name": "FAR CRY 4",
-      "size": null,
-      "version": "1.00",
-      "release": "2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/UP0001/CUSA00496_00/zfviJfMx8AXG0BVq9iObe9dUhXzcXfAh.png"
-    },
-    "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/UPDATE/1.08/EP0001-CUSA00462_00-FC4GAMEPS4000001_UPD_00.pkg": {
-      "title_id": "CUSA00462",
-      "region": "USA",
-      "name": "FAR CRY 4 UPDATE",
-      "size": null,
-      "version": "1.08",
-      "release": "2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/UP0001/CUSA00496_00/zfviJfMx8AXG0BVq9iObe9dUhXzcXfAh.png"
-    },
-    "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/BASE/EP1004-CUSA36843_00-REDEMPTION000001_BASE_00.pkg": {
-      "title_id": "CUSA36843",
-      "region": "EUR",
-      "name": "RED DEAD REDEMPTION",
-      "size": null,
-      "version": "1.00",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1414/10231d67c21c96ffa98c728fc255dd7b8965c12c44e4feec.png"
-    },
-    "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/UPDATE/1.04/EP1004-CUSA36843_00-REDEMPTION000001_UPD_00.pkg": {
-      "title_id": "CUSA36843",
-      "region": "EUR",
-      "name": "RED DEAD REDEMPTION UPDATE",
-      "size": null,
-      "version": "1.04",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1414/10231d67c21c96ffa98c728fc255dd7b8965c12c44e4feec.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/BASE/UP1004-CUSA03041_00-REDEMPTION000002_BASE_00.pkg": {
-      "title_id": "CUSA03041",
-      "region": "EUR",
-      "name": "RED DEAD REDEMPTION 2",
-      "size": null,
-      "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/UPDATE/1.32/UP1004-CUSA03041_00-REDEMPTION000002_UPD_00.pkg": {
-      "title_id": "CUSA03041",
-      "region": "EUR",
-      "name": "RED DEAD REDEMPTION 2 UPDATE",
-      "size": null,
-      "version": "1.32",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/DLC/UP1004-CUSA03041_00-RDR2CONTENTPHYS0.pkg": {
-      "title_id": "CUSA03041",
-      "region": "EUR",
-      "name": "RED DEAD REDEMPTION 2 DLC - Bônus de pré-venda",
-      "size": null,
-      "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/DLC/UP1004-CUSA03041_00-RDR2SPECEDITION0.pkg": {
-      "title_id": "CUSA03041",
-      "region": "EUR",
-      "name": "RED DEAD REDEMPTION 2 DLC - Conteúdo da Edição Especial",
-      "size": null,
-      "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png"
-    }
+[
+  {
+    "nome": "Elden Ring",
+    "cusa": "CUSA28863",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/0Jz6uJLxOK7JOMMfcfHFBi1D.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2214/636522fa4f2f7130c23e833a94774354a6dfb79db469face.jpg",
+    "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/BASE/UP0700-CUSA28863_00-ELDENRING0000000_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "RPG",
+    "sinopse": "Em ELDEN RING, você explora um mundo amplo com campos abertos e masmorras interligadas, onde cada descoberta pode virar uma grande conquista. O jogo permite criar e evoluir seu personagem livremente, combinando armas, armaduras e magias conforme seu estilo. A narrativa é épica e fragmentada, com personagens se conectando nas Terras Intermédias.",
+    "update": "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/UPDATE/1.22/UP0700-CUSA28863_00-ELDENRING0000000_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Gesto bônus (O Anel)",
+        "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/DLC/UP0700-CUSA28863_00-ELDENRINGBONUS01.pkg"
+      },
+      {
+        "nome": "Guia de Aventuras Digitais",
+        "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/DLC/UP0700-CUSA28863_00-ELDENRINGBONUS02.pkg"
+      },
+      {
+        "nome": "Sombra da Erdtree",
+        "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/DLC/UP0700-CUSA28863_00-ELDENRINGDLC0000.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Fantasma de Tsushima",
+    "cusa": "CUSA11456",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1c.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202108/2019/bOmiMyavrPQiAamYi8LHPqmI.jpg",
+    "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/BASE/UP9000-CUSA11456_00-GHOSTSHIP0000000_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "RPG, Ação, Aventura",
+    "sinopse": "Conheça a experiência expandida de Ghost of Tsushima na Versão do Diretor, com todo o conteúdo adicional lançado até hoje. Explore Tsushima em um jogo de ação e aventura em mundo aberto, desafiando inimigos de perto com uma katana, dominando o arco para eliminar ameaças à distância e usando furtividade para emboscar adversários.",
+    "update": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/UPDATE/2.24/UP9000-CUSA11456_00-GHOSTSHIP0000000_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Armadura Especial",
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTARMORSET000.pkg"
+      },
+      {
+        "nome": "VERSÃO DO DIRETOR (Aprimorada)",
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTDIRECTORCUT.pkg"
+      },
+      {
+        "nome": "Melhor Recuperação da Saúde",
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTHEALTHRECOV.pkg"
+      },
+      {
+        "nome": "Selim Especial",
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTHORSESADDLE.pkg"
+      },
+      {
+        "nome": "Cavalo Especial",
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTHORSESKIN00.pkg"
+      },
+      {
+        "nome": "Lendas (Desbloquear)",
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTLEGENDSMODE.pkg"
+      },
+      {
+        "nome": "Máscara Dourada",
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTMASKSKIN000.pkg"
+      },
+      {
+        "nome": "Espada Especial",
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTSWORDSKIN00.pkg"
+      },
+      {
+        "nome": "Ponto Técnico Extra",
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTTECHNIQUEPT.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Sekiro: As sombras morrem duas vezes",
+    "cusa": "CUSA12047",
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/2818/ofQOsetcmEILO4MjvRudoUOC.png",
+    "url": "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "USA",
+    "genero": "Ação, Aventura",
+    "sinopse": "Em Sekiro: Shadows Die Twice, você é o \"lobo de um braço só\", um guerreiro desonrado e desfigurado, resgatado da beira da morte. Comprometido a proteger um jovem senhor descendente de uma antiga linhagem, você se torna alvo de muitos inimigos cruéis, incluindo o perigoso bando Ashina.",
+    "update": "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/UPDATE/1.06/UP0002-CUSA12047_00-SEKIROGAME000001_UPD_00.pkg",
+    "dlcs": []
+  },
+  {
+    "nome": "O Legado de Hogwarts",
+    "cusa": "CUSA12824",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/4ddb6640a270d7a6e022a044102253fa9bbe48233e1ad577.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/BASE/UP1018-CUSA12824_00-HOGWARTSLEGACY01_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "RPG, Ação, Aventura, Fantasia, Mundo aberto",
+    "sinopse": "Hogwarts Legacy é um RPG de ação imersivo e de mundo aberto no universo apresentado nos livros de Harry Potter. Você vive Hogwarts na década de 1800, explora locais novos e familiares, encontra criaturas fantásticas, personaliza seu personagem, cria poções, domina feitiços, desenvolve talentos e enfrenta bruxos das trevas.",
+    "update": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/UPDATE/1.05/UP1018-CUSA12824_00-HOGWARTSLEGACY01_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Montagem de Hipogrifo de Ônix",
+        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-PREO01ALLP00R0HD.pkg"
+      },
+      {
+        "nome": "Chapéu de Astrônomo",
+        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-PREO02AMZN00R0VO.pkg"
+      },
+      {
+        "nome": "Receita da Poção Felix Felicis",
+        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-PREO03SONY00P0HD.pkg"
+      },
+      {
+        "nome": "Pacote de Artes das Trevas",
+        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-STOR01ALLP00R0VP.pkg"
+      },
+      {
+        "nome": "Chapéu de Guarnição das Artes das Trevas",
+        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-STOR02ALLP00R0VO.pkg"
+      },
+      {
+        "nome": "Loja Assombrada de Hogsmeade",
+        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-STOR03SONY00P0HD.pkg"
+      },
+      {
+        "nome": "Chapéu de Guarnição das Artes das Trevas 2",
+        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-STOR07ALLP00R0VO.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Deus da Guerra (2018)",
+    "cusa": "CUSA07408",
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/KAmUQWQ5V9QF3XDzmty1VkKj.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/BASE/UP9000-CUSA07408_00-00000000GODOFWAR_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "Ação, Aventura",
+    "sinopse": "Em uma nova fase de sua vida, Kratos deixa para trás a era dos deuses do Olimpo e tenta sobreviver em um mundo nórdico hostil, repleto de criaturas, monstros e criaturas. Ao lado do Atreus, ele apresenta ameaças inesperadas e uma jornada profundamente pessoal, enquanto aprende a ser pai.",
+    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/UPDATE/1.35/UP9000-CUSA07408_00-00000000GODOFWAR_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Broqueteiro da Forja",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00010000000000.pkg"
+      },
+      {
+        "nome": "Escudo da Alma Élfica Brilhante",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00020000000000.pkg"
+      },
+      {
+        "nome": "Dökkenshieldr",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00030000000000.pkg"
+      },
+      {
+        "nome": "O Guardião do Exilado",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00040000000000.pkg"
+      },
+      {
+        "nome": "Defensor dos Escolhidos",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00050000000000.pkg"
+      },
+      {
+        "nome": "Graça do Andarilho",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00060000000000.pkg"
+      },
+      {
+        "nome": "Talismã da Sorte das Eras (Aumento de XP)",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00070000000000.pkg"
+      },
+      {
+        "nome": "Conjunto de Armadura do Juramento da Morte",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-POA0010000000000.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Deus da Guerra Ragnarök",
+    "cusa": "CUSA34384",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1117/hguxDixf0FzALJnXNCc10Tdo.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2016/1f4bf1ee42276b3841e71ebb812510493ce78bfc307d3296.jpg",
+    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/BASE/UP9000-CUSA34384_00-GOWRAGNAROK00000_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "Ação, Aventura",
+    "sinopse": "Kratos e Atreus devem viajar pelos Nove Reinos em busca de respostas enquanto as forças asgardianas se preparam para uma batalha profetizada que causará o fim do mundo.",
+    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/UPDATE/6.05/UP9000-CUSA34384_00-GOWRAGNAROK00000_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Edição Digital Deluxe",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/DLC/UP9000-CUSA34384_00-GOWRAGNAROKDDE00.pkg"
+      },
+      {
+        "nome": "Itens da Edição de Lançamento",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/DLC/UP9000-CUSA34384_00-GOWRAGNAROKPREOR.pkg"
+      },
+      {
+        "nome": "Valhalla",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/DLC/UP9000-CUSA34384_00-GOWRDLCCONTENT00.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Resident Evil 4: Remake",
+    "cusa": "CUSA33387",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0712/PjIoeaMt833otj5HukAWGfui.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/BASE/UP0102-CUSA33387_00-RE4RMAINGAME0000_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "Terror, Ação, Aventura",
+    "sinopse": "Seis anos após o desastre biológico em Raccoon City, Leon S. Kennedy é enviado para resgatar a filha sequestrada do presidente dos EUA. A missão o leva a uma vila europeia isolada, onde algo profundamente errado tomou conta dos habitantes.",
+    "update": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/UPDATE/1.11/UP0102-CUSA33387_00-RE4RMAINGAME0000_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Caminhos Separados",
+        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000001.pkg"
+      },
+      {
+        "nome": "Mapa do Tesouro: Expansão",
+        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000002.pkg"
+      },
+      {
+        "nome": "Leon & Ashley Costumes: Casual",
+        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000004.pkg"
+      },
+      {
+        "nome": "Leon & Ashley Costumes: Romântico",
+        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000005.pkg"
+      },
+      {
+        "nome": "Fantasia e filtro de Leon: Herói",
+        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000006.pkg"
+      },
+      {
+        "nome": "Fantasia e filtro de Leon: Vilão",
+        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000007.pkg"
+      },
+      {
+        "nome": "Troca da trilha sonora da versão original",
+        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000008.pkg"
+      },
+      {
+        "nome": "Arma de Luxo: Sentinela Nove",
+        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000009.pkg"
+      },
+      {
+        "nome": "Arma de Luxo: Abalador de Crânios",
+        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000010.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "The Last of Us Part II",
+    "cusa": "CUSA07820",
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/UIRjzDjQKrOD4kx6ubmlOsrA.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/BASE/UP9000-CUSA07820_00-THELASTOFUSPART2_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "Ação, Aventura",
+    "sinopse": "Cinco anos após uma jornada pelos Estados Unidos em um cenário pós-pandêmico, Ellie e Joel se estabelecem em Jackson, Wyoming, tentando construir uma vida com alguma paz e estabilidade em meio à ameaça constante dos infectados — e de outros sobreviventes.",
+    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/UPDATE/1.09/UP9000-CUSA07820_00-THELASTOFUSPART2_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Pacote Bônus de The Last of Us Part II",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/DLC/UP9000-CUSA07820_00-T2PREO0000000000-A0000-V0100-DIURYDUARTE.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Guerra Mundial Z",
+    "cusa": "CUSA14046",
+    "capa": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202009/2808/9BLGIeD8OgI8cCbOEDbYjdnw.jpg",
+    "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/BASE/UP2746-CUSA14046_00-WWZTHEGAME201800_BASE_0.pkg",
+    "tamanho": "N/A",
+    "regiao": "USA",
+    "genero": "Ação, Tiro",
+    "sinopse": "A humanidade está à beira da extinção. De Nova York a Moscou e Jerusalém, o apocalipse zumbi continua a se espalhar. Conforme o fim se aproxima, um pequeno grupo de sobreviventes se une para derrotar a horda e sobreviver aos mortos.",
+    "update": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Pacote de Armas Defensores do Deserto",
+        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCDESERT0000000.pkg"
+      },
+      {
+        "nome": "Episódio do Vale do Zeke",
+        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCVALLEY0000000.pkg"
+      },
+      {
+        "nome": "Episódio Apocalipse de Sin City",
+        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZADLCVEGASEP00.pkg"
+      },
+      {
+        "nome": "Episódio de Marselha",
+        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN702.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Days Gone",
+    "cusa": "CUSA09175",
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202011/1204/wYL4v2r8uMQFvVTJlfuj8ICk.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202011/1118/sQPqzvzBsYoCq5MEkAc7v1Rs.jpg",
+    "url": "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/BASE/EP9000-CUSA09175_00-DAYSGONECOMPLETE_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "Terror, Aventura, Ação",
+    "sinopse": "Days Gone é um jogo de ação e aventura em mundo aberto ambientado dois anos após uma pandemia global devastadora. Você joga como Deacon St. John, um andarilho e caçador de recompensas que tenta sobreviver em um mundo pós-apocalíptico enquanto busca por um motivo para viver.",
+    "update": "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/UPDATE/1.84/EP9000-CUSA09175_00-DAYSGONECOMPLETE_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Bônus de pré-venda",
+        "url": "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/DLC/EP9000-CUSA09175_00-DAYSGONEPREBONUS.pkg"
+      },
+      {
+        "nome": "Skins de Bicicleta / Desbloqueio Antecipado da Habilidade Chave Inglesa",
+        "url": "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/DLC/EP9000-CUSA09175_00-DAYSGONECEBONUS1.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Call of Duty: Modern Warfare III",
+    "cusa": "CUSA23827",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1415/8d9af953f938ba6cb9f9e73cd94424df2d33b0f313794739.png",
+    "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/BASE/UP0002-CUSA23827_00-COREGAME00000001.pkg",
+    "tamanho": "N/A",
+    "regiao": "USA",
+    "genero": "Ação, Tiro",
+    "sinopse": "Nesta sequência direta do recordista Call of Duty®: Modern Warfare® II, o Capitão Price e a Força-tarefa 141 voltam ao centro do conflito diante de uma ameaça que eleva a guerra a outro patamar. A agressão de guerra ultranacionalista Vladimir Makarov está expandindo seu alcance pelo mundo.",
+    "update": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Pacote de Campanha 1",
+        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_00.pkg"
+      },
+      {
+        "nome": "Pacote de Campanha 2",
+        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_00.pkg"
+      },
+      {
+        "nome": "Pacote Multijogador",
+        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_00.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Cyberpunk 2077",
+    "cusa": "CUSA16596",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0511/fb9ce1671c6a36fdf1e6548ab8947940f1fc2a1c873ae83d.jpg",
+    "url": "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/BASE/UP4497-CUSA16596_00-0000000000000004_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "Ação, Aventura, RPG",
+    "sinopse": "Cyberpunk 2077 é um RPG de ação e aventura em mundo aberto ambientado em Night City, uma megalópole obcecada por poder, glamour e modificações corporais. Você joga como V, um mercenário cyberpunk, e pode personalizar seu personagem e seu estilo de jogo.",
+    "update": "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/UPDATE/1.61/UP4497-CUSA16596_00-0000000000000004_UPD_00.pkg",
+    "dlcs": []
+  },
+  {
+    "nome": "Horizon Zero Dawn: Edição Completa",
+    "cusa": "CUSA10237",
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202011/1018/9erXiwu0ozgKGPIUVTuy2siN.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202009/2923/LyLrdlIfqiVzvynWJGtNfbU8.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/BASE/UP9000-CUSA10237_00-HRZCE00000000000_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "RPG, Ação",
+    "sinopse": "Assuma o papel de Aloy, uma caçadora habilidosa, e explore um mundo aberto exuberante - e ao mesmo tempo pós-apocalíptico - dominado por máquinas misteriosas. Enfrente tribos rivais e máquinas predatórias em uma jornada para descobrir seu passado e moldar o futuro.",
+    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/UPDATE/1.54/UP9000-CUSA10237_00-HRZCE00000000000_UPD_00.pkg",
+    "dlcs": []
+  },
+  {
+    "nome": "LEGO Star Wars: A Saga Skywalker",
+    "cusa": "CUSA13794",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/huLsTFyulvj2fC0nbRaVUChw.png",
+    "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "Ação, Aventura",
+    "sinopse": "Vivencie momentos icônicos de todos os nove filmes da Saga Skywalker de uma forma totalmente nova com LEGO Star Wars: A Saga Skywalker. Jogue através de episódios I-IX com o humor e a jogabilidade clássicos da LEGO.",
+    "update": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/UPDATE/1.09/UP1018-CUSA13794_00-LEGOSWTSS0000000_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Pacote Livro de Boba Fett",
+        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Book%20of%20Boba%20Fett%20Pack/UP1018-CUSA13794_00-BOBAFETTPACK0001.pkg"
+      },
+      {
+        "nome": "Pacote de Personagens de Rogue One",
+        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Rogue%20One:%20A%20Star%20Wars%20Story%20Character%20Pack/UP1018-CUSA13794_00-ROGUEONEPACK0001.pkg"
+      },
+      {
+        "nome": "Pacote de Personagens de Solo",
+        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Solo:%20A%20Star%20Wars%20Story%20Character%20Pack/UP1018-CUSA13794_00-SOLOPACK00000001.pkg"
+      },
+      {
+        "nome": "Pacote de Personagens do Bad Batch",
+        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Bad%20Batch%20Character%20Pack/UP1018-CUSA13794_00-BADBATCHPACK0001.pkg"
+      },
+      {
+        "nome": "Pacote de Personagens da 1ª Temporada de The Mandalorian",
+        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Mandalorian%20Season%201%20Character%20Pack/UP1018-CUSA13794_00-MANDALORIANPACK1.pkg"
+      },
+      {
+        "nome": "Pacote de Personagens da 2ª Temporada de The Mandalorian",
+        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Mandalorian%20Season%202%20Character%20Pack/UP1018-CUSA13794_00-MANDALORIANPACK2.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Star Wars Jedi: Sobrevivente",
+    "cusa": "CUSA33778",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1016/47becbe467e18575f71429abbaec9af707865744b825f34d.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2814/24a5bc14faa8f69c74a9a8d7b729509841a1c9046bc9a7f3.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/BASE/UP0006-CUSA33778_00-APPLEJACKGAME000_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "Ação, Aventura",
+    "sinopse": "Cinco anos após os eventos de STAR WARS Jedi: Fallen Order, Cal Kestis segue em fuga e cada vez mais restrito pela perseguição implacável do Império. Em uma galáxia que mergulha em tempos sombrios, ele precisará ir além do próprio limite para proteger sua equipe e manter vivo o legado da Ordem Jedi.",
+    "update": "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/UPDATE/1.03/UP0006-CUSA33778_00-APPLEJACKGAME000_UPD_00.pkg",
+    "dlcs": []
+  },
+  {
+    "nome": "Marvel's Spider-Man: Edição Jogo do Ano",
+    "cusa": "CUSA02299",
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/Cu9fyu6DM41JPekXLf1neF9r.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/BASE/UP9000-CUSA02299_00-MARVELSSPIDERMAN_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "Ação, Aventura",
+    "sinopse": "Viva a versão completa de Marvel's Spider-Man com um Peter Parker mais experiente, enfrentando grandes desafios enquanto tenta equilibrar vida pessoal e carreira — tudo isso com o destino da Nova York da Marvel em jogo. Inclui o arco completo do DLC \"A Cidade que Nunca Dorme\".",
+    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/UPDATE/1.19/UP9000-CUSA02299_00-MARVELSSPIDERMAN_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "O Assalto",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-000000000000DLC1-A0000-V0100.pkg"
+      },
+      {
+        "nome": "Guerras Territoriais",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-000000000000DLC2-A0000-V0100.pkg"
+      },
+      {
+        "nome": "Lado Bom",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-000000000000DLC3-A0000-V0100.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Marvel's Spider-Man: Miles Morales",
+    "cusa": "CUSA17722",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/2417/tnCutdREPv6Pa7atqb8MTxGW.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/BASE/UP9000-CUSA17722_00-MARVELSSMMORALES_BASE.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "Ação, Aventura",
+    "sinopse": "Na mais nova aventura do universo de Marvel's Spider-Man, Miles Morales tenta se adaptar ao novo lar enquanto segue os passos de Peter Parker para assumir seu lugar como o novo Spider-Man.",
+    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/UPDATE/1.14/UP9000-CUSA17722_00-MARVELSSMMORALES_UPD.pkg",
+    "dlcs": [
+      {
+        "nome": "Traje do Homem-Aranha: No Aranhaverso",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTSPIDVERSESUIT.pkg"
+      },
+      {
+        "nome": "Três Pontos de Habilidade",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTPLUSTHREEPTSX.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "EA Sports FC 26",
+    "cusa": "CUSA52342",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1617/2e757ffb0a6bb4b91af84db64e0183d725e56e5354f45eba.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1617/27132291f4187708f316b43f65ab887a74fdf325f4ece306.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/BASE/UP0006-CUSA52342_00-EASPORTSFC2026BG_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "Esporte",
+    "sinopse": "EA SPORTS FC™ 26 traz a emoção do futebol em um pacote completo: partidas intensas, atmosfera de estádio e controle refinado para você jogar do seu jeito. Monte seu time, evolua seu estilo, encare desafios e busque a vitória em modos competitivos.",
+    "update": "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/UPDATE/1.09/UP0006-CUSA52342_00-EASPORTSFC2026BG_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Desbloqueio do Jogo Completo",
+        "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/DLC/UP0006-CUSA52342_00-FULLGAMEUNLOCK00.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Naruto Shippuden: Ultimate Ninja Storm 4 - Rumo a Boruto",
+    "cusa": "CUSA06381",
+    "capa": "https://image.api.playstation.com/cdn/UP0700/CUSA06381_00/leBwhHZ307kxd3oaMKAKRnGRa2TimjcK.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/Xefoy4Yf5Cvskx5JPPfWIdhA.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/BASE/UP0700-CUSA06381_00-NARUTOUNS4RTB000_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "Ação, Aventura, Luta",
+    "sinopse": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 Road to Boruto encerra a série Ultimate Ninja Storm com a edição mais completa do STORM 4: reúne o jogo base, os pacotes de DLC e bônus, adicionando a nova aventura \"Road to Boruto\" com horas extras de conteúdo focados na nova geração de ninjas.",
+    "update": "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/UPDATE/1.05/UP0700-CUSA06381_00-NARUTOUNS4RTB000_UPD_00.pkg",
+    "dlcs": []
+  },
+  {
+    "nome": "Far Cry 4",
+    "cusa": "CUSA00462",
+    "capa": "https://image.api.playstation.com/cdn/UP0001/CUSA00496_00/zfviJfMx8AXG0BVq9iObe9dUhXzcXfAh.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/1223/TPknlBAbAXGaQWcyi6YCKjCS.jpg",
+    "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/BASE/EP0001-CUSA00462_00-FC4GAMEPS4000001_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "USA",
+    "genero": "Tiro, Ação, Aventura",
+    "sinopse": "Em Far Cry 4, você chega a Kyrat, uma região deslumbrante, perigosa e indomável no Himalaia, e acaba no centro de uma guerra civil contra o regime do autoproclamado rei Pagan Min.",
+    "update": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/UPDATE/1.08/EP0001-CUSA00462_00-FC4GAMEPS4000001_UPD_00.pkg",
+    "dlcs": []
+  },
+  {
+    "nome": "Red Dead Redemption",
+    "cusa": "CUSA36843",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1414/10231d67c21c96ffa98c728fc255dd7b8965c12c44e4feec.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1414/28668a5e2f1f34295ccb9732e83d512615b05bf567ba7fd5.jpg",
+    "url": "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/BASE/EP1004-CUSA36843_00-REDEMPTION000001_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "Ação, Aventura",
+    "sinopse": "Quando agentes federais ameaçam sua família, o ex-fora da lei John Marston é solicitado a caçar os criminosos que um dia chamou de amigos. Viaje por um vasto mundo que atravessa o Oeste Americano e o México.",
+    "update": "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/UPDATE/1.04/EP1004-CUSA36843_00-REDEMPTION000001_UPD_00.pkg",
+    "dlcs": []
+  },
+  {
+    "nome": "Red Dead Redemption 2",
+    "cusa": "CUSA03041",
+    "capa": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202011/1215/WyHa1BM3ISDVqYSEUMB9VZJs.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/BASE/UP1004-CUSA03041_00-REDEMPTION000002_BASE_00.pkg",
+    "tamanho": "N/A",
+    "regiao": "EUR",
+    "genero": "Aventura, Ação",
+    "sinopse": "Em 1899, nos Estados Unidos, Arthur Morgan e a gangue Van der Linde são obrigados a fugir enquanto agentes federais e caçadores de recompensa abrem o cerco. Para sobreviver, o bando precisa roubar, lutar e seguir em frente.",
+    "update": "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/UPDATE/1.32/UP1004-CUSA03041_00-REDEMPTION000002_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Conteúdo da Edição Especial",
+        "url": "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/DLC/UP1004-CUSA03041_00-RDR2SPECEDITION0.pkg"
+      }
+    ]
   }
-}
+]
