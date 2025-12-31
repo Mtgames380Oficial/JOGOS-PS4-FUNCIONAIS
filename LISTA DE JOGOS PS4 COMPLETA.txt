@@ -131,7 +131,7 @@
     ]
   },
   {
-    "nome": "Deus da Guerra (2018)",
+    "nome": "God Of War (2018)",
     "cusa": "CUSA07408",
     "capa": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png",
     "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/KAmUQWQ5V9QF3XDzmty1VkKj.png",
@@ -177,7 +177,7 @@
     ]
   },
   {
-    "nome": "Deus da Guerra Ragnarök",
+    "nome": "God Of War Ragnarök",
     "cusa": "CUSA34384",
     "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1117/hguxDixf0FzALJnXNCc10Tdo.png",
     "background": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2016/1f4bf1ee42276b3841e71ebb812510493ce78bfc307d3296.jpg",
@@ -549,3 +549,4 @@
     ]
   }
 ]
+
