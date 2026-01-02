@@ -1,675 +1,1593 @@
 [
   {
-    "nome": "Elden Ring",
-    "cusa": "CUSA28863",
+    "título": "Elden Ring",
+    "tagline": "O novo RPG de ação e fantasia.",
+    "description": "Em ELDEN RING, você explora um mundo amplo com campos abertos e masmorras interligadas, onde cada descoberta pode virar uma grande conquista. O jogo permite criar e evoluir seu personagem livremente, combinando armas, armaduras e magias conforme seu estilo. A narrativa é épica e fragmentada, com personagens e se conectando nas Terras Intermédias, e há recursos online (incluindo elementos assíncronos) que reforçam a sensação de presença de outros jogadores.",
+    "gêneros": ["RPG"],
     "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/0Jz6uJLxOK7JOMMfcfHFBi1D.png",
-    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2214/636522fa4f2f7130c23e833a94774354a6dfb79db469face.jpg",
-    "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/BASE/UP0700-CUSA28863_00-ELDENRING0000000_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "RPG",
-    "sinopse": "Em ELDEN RING, você explora um mundo amplo com campos abertos e masmorras interligadas, onde cada descoberta pode virar uma grande conquista. O jogo permite criar e evoluir seu personagem livremente, combinando armas, armaduras e magias conforme seu estilo. A narrativa é épica e fragmentada, com eventos e personagens se conectando nas Terras Intermédias, e há recursos online (incluindo elementos assíncronos) que reforçam a sensação de presença de outros jogadores.",
-    "update": "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/UPDATE/1.22/UP0700-CUSA28863_00-ELDENRING0000000_UPD_00.pkg",
+    "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2214/636522fa4f2f7130c23e833a94774354a6dfb79db469face.jpg",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/BASE/UP0700-CUSA28863_00-ELDENRING0000000_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.21",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/UPDATE/1.21/UP0700-CUSA28863_00-ELDENRING0000000_UPD_00.pkg"
+        ]
+      },
+      {
+        "versão": "1.22",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/UPDATE/1.22/UP0700-CUSA28863_00-ELDENRING0000000_UPD_00.pkg"
+        ]
+      }
+    ],
     "dlcs": [
       {
-        "nome": "Bonus Gesture (The Ring)",
-        "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/DLC/UP0700-CUSA28863_00-ELDENRINGBONUS01.pkg"
+        "título": "Gesto bônus (“O Anel”)",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/DLC/UP0700-CUSA28863_00-ELDENRINGBONUS01.pkg"
+        ]
       },
       {
-        "nome": "Digital Adventure Guide",
-        "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/DLC/UP0700-CUSA28863_00-ELDENRINGBONUS02.pkg"
+        "título": "Guia de Aventuras Digitais",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/DLC/UP0700-CUSA28863_00-ELDENRINGBONUS02.pkg"
+        ]
       },
       {
-        "nome": "Shadow of the Erdtree",
-        "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/DLC/UP0700-CUSA28863_00-ELDENRINGDLC0000.pkg"
+        "título": "Sombra da Erdtree",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/DLC/UP0700-CUSA28863_00-ELDENRINGDLC0000.pkg"
+        ]
       }
-    ]
+    ],
+    "publisherId": "UP0700",
+    "titleId": "CUSA28863",
+    "contentLabel": "ELDENRING0000000",
+    "contentId": "UP0700-CUSA28863_00-ELDENRING0000000"
   },
   {
-    "nome": "Ghost of Tsushima",
-    "cusa": "CUSA11456",
+    "título": "Fantasma de Tsushima",
+    "tagline": "Forje um novo caminho.",
+    "description": "Conheça a experiência expandida de Ghost of Tsushima na Versão do Diretor, com todo o conteúdo adicional lançado até hoje. Explore Tsushima em um jogo de ação e aventura em mundo aberto, desafiando inimigos de perto com uma katana, dominando o arco para eliminar ameaças à distância e usando furtividade para emboscar oponentes. Além da campanha, a edição também inclui uma nova história na Ilha Iki e o modo cooperativo online Legends, além de extras digitais e itens desbloqueáveis ​​conforme o progresso.",
+    "gêneros": ["RPG"],
     "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1c.png",
-    "background": "https://image.api.playstation.com/vulcan/img/rnd/202108/2019/bOmiMyavrPQiAamYi8LHPqmI.jpg",
-    "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/BASE/UP9000-CUSA11456_00-GHOSTSHIP0000000_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "RPG",
-    "sinopse": "Conheça a experiência expandida de Ghost of Tsushima na Versão do Diretor, com todo o conteúdo adicional lançado até hoje. Explore Tsushima em um jogo de ação e aventura em mundo aberto, desafiando inimigos de perto com a katana, dominando o arco para eliminar ameaças à distância e usando furtividade para emboscar adversários. Além da campanha, a edição também inclui uma nova história na Ilha Iki e o modo cooperativo online Legends, além de extras digitais e itens desbloqueáveis conforme o progresso.",
-    "update": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/UPDATE/2.24/UP9000-CUSA11456_00-GHOSTSHIP0000000_UPD_00.pkg",
+    "banner": "https://image.api.playstation.com/vulcan/img/rnd/202108/2019/bOmiMyavrPQiAamYi8LHPqmI.jpg",
+    "base": {
+      "arquivos": [
+        "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/BASE/UP9000-CUSA11456_00-GHOSTSHIP0000000_BASE_00.pkg",
+        "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/BASE/UP9000-CUSA11456_00-GHOSTSHIP0000000_BASE_01.pkg",
+        "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/BASE/UP9000-CUSA11456_00-GHOSTSHIP0000000_BASE_02.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.06",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/UPDATE/2.24/UP9000-CUSA11456_00-GHOSTSHIP0000000_UPD_00.pkg"
+        ]
+      }
+    ],
     "dlcs": [
       {
-        "nome": "Special Armor",
-        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTARMORSET000.pkg"
+        "título": "Armadura Especial",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTARMORSET000.pkg"
+        ]
       },
       {
-        "nome": "DIRECTOR'S CUT (Upgrade)",
-        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTDIRECTORCUT.pkg"
+        "título": "VERSÃO DO DIRETOR (Aprimorada)",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTDIRECTORCUT.pkg"
+        ]
       },
       {
-        "nome": "Better Health Recovery",
-        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTHEALTHRECOV.pkg"
+        "Título": "Melhor Recuperação da Saúde",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTHEALTHRECOV.pkg"
+        ]
       },
       {
-        "nome": "Special Saddle",
-        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTHORSESADDLE.pkg"
+        "título": "Selim Especial",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTHORSESADDLE.pkg"
+        ]
       },
       {
-        "nome": "Special Horse",
-        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTHORSESKIN00.pkg"
+        "título": "Cavalo Especial",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTHORSESKIN00.pkg"
+        ]
       },
       {
-        "nome": "Legends (Unlock)",
-        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTLEGENDSMODE.pkg"
+        "título": "Lendas (Desbloquear)",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTLEGENDSMODE.pkg"
+        ]
       },
       {
-        "nome": "Golden Mask",
-        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTMASKSKIN000.pkg"
+        "título": "Máscara Dourada",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTMASKSKIN000.pkg"
+        ]
       },
       {
-        "nome": "Special Sword",
-        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTSWORDSKIN00.pkg"
+        "título": "Espada Especial",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTSWORDSKIN00.pkg"
+        ]
       },
       {
-        "nome": "Extra Technique Point",
-        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTTECHNIQUEPT.pkg"
+        "título": "Ponto Técnico Extra",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTTECHNIQUEPT.pkg"
+        ]
       }
-    ]
+    ],
+    "publisherId": "UP9000",
+    "titleId": "CUSA11456",
+    "contentLabel": "GHOSTSHIP0000000",
+    "contentId": "UP9000-CUSA11456_00-GHOSTSHIP0000000"
   },
   {
-    "nome": "Sekiro™: Shadows Die Twice",
-    "cusa": "CUSA12047",
-    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png",
-    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/2818/ofQOsetcmEILO4MjvRudoUOC.png",
-    "url": "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "USA",
-    "genero": "Ação, Aventura",
-    "sinopse": "Em Sekiro: Shadows Die Twice, você é o \"lobo de um braço só\", um guerreiro desonrado e desfigurado, resgatado da beira da morte. Comprometido a proteger um jovem senhor descendente de uma antiga linhagem, você se torna alvo de muitos inimigos cruéis, incluindo o perigoso clã Ashina. Quando o jovem senhor é capturado, nada o impedirá em sua perigosa jornada para recuperar sua honra, nem mesmo a própria morte. Explore o Japão do período Sengoku, no final do século XVI, uma era brutal de constantes conflitos de vida ou morte, e enfrente inimigos colossais em um mundo sombrio e distorcido.",
-    "update": "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/UPDATE/1.06/UP0002-CUSA12047_00-SEKIROGAME000001_UPD_00.pkg",
-    "dlcs": []
+    "title": "Sekiro™: As sombras morrem duas vezes",
+    "tagline": "Duelo, precisão e uma lâmina só.",
+    "description": "Em Sekiro: Shadows Die Twice, você é o \"lobo de um braço só\", um guerreiro desonrado e desfigurado, resgatado da beira da morte. Comprometido a proteger um jovem senhor descendente de uma antiga linhagem, você se torna alvo de muitos inimigos cruéis, incluindo o perigoso bando Ashina. Quando o jovem senhor é capturado, nada o impedirá em sua jornada de perigo para recuperar sua honra, nem mesmo a própria morte.\n\nExplore o Japão do período Sengoku, no final do século XVI, uma era brutal de constantes conflitos de vida ou morte, e enfrentando inimigos colossais em um mundo sombrio e distorcido. Utilize um arsenal de ferramentas protéticas letais e poderosas habilidades ninja, combinando furtividade, movimentos verticais e combates viscerais em confrontos sangrentos.",
+    "gêneros": ["Ação", "Aventura"],
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
+    "banner": "https://image.api.playstation.com/vulcan/img/rnd/202010/2818/ofQOsetcmEILO4MjvRudoUOC.png",
+    "base": {
+      "arquivos": [
+        "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_00.pkg",
+        "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_01.pkg",
+        "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_02.pkg",
+        "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_03.pkg",
+        "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_04.pkg",
+        "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_05.pkg",
+        "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_06.pkg",
+        "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_07.pkg",
+        "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_08.pkg",
+        "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_09.pkg",
+        "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_10.pkg",
+        "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_11.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.06",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/UPDATE/1.06/UP0002-CUSA12047_00-SEKIROGAME000001_UPD_00.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/UPDATE/1.06/UP0002-CUSA12047_00-SEKIROGAME000001_UPD_01.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/UPDATE/1.06/UP0002-CUSA12047_00-SEKIROGAME000001_UPD_02.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/UPDATE/1.06/UP0002-CUSA12047_00-SEKIROGAME000001_UPD_03.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/UPDATE/1.06/UP0002-CUSA12047_00-SEKIROGAME000001_UPD_04.pkg"
+        ]
+      }
+    ],
+    "dlcs": [],
+    "publisherId": "UP0002",
+    "titleId": "CUSA12047",
+    "contentLabel": "SEKIROGAME000001",
+    "contentId": "UP0002-CUSA12047_00-SEKIROGAME000001"
   },
   {
-    "nome": "Hogwarts Legacy",
-    "cusa": "CUSA12824",
+    "título": "O Legado de Hogwarts",
+    "tagline": "Seu legado é o que você faz dele.",
+    "description": "Hogwarts Legacy é um RPG de ação imersivo e de mundo aberto no universo apresentado nos livros de Harry Potter. Você vive Hogwarts na década de 1800, explora locais novos e familiares, encontra criaturas fantásticas, personaliza seu personagem, cria poções, domina feitiços, desenvolve talentos e enfrenta bruxos das trevas — enquanto decide o destino do mundo bruxo.",
+    "gêneros": ["RPG", "Ação", "Aventura", "Fantasia", "Mundo aberto"],
     "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png",
-    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/4ddb6640a270d7a6e022a044102253fa9bbe48233e1ad577.png",
-    "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/BASE/UP1018-CUSA12824_00-HOGWARTSLEGACY01_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "RPG, Ação, Aventura, Fantasia, Mundo aberto",
-    "sinopse": "Hogwarts Legacy é um RPG de ação imersivo e de mundo aberto no universo apresentado nos livros de Harry Potter. Você vive Hogwarts na década de 1800, explora locais novos e familiares, encontra criaturas fantásticas, personaliza seu personagem, cria poções, domina feitiços, desenvolve talentos e enfrenta bruxos das trevas — enquanto decide o destino do mundo bruxo.",
-    "update": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/UPDATE/1.05/UP1018-CUSA12824_00-HOGWARTSLEGACY01_UPD_00.pkg",
+    "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/4ddb6640a270d7a6e022a044102253fa9bbe48233e1ad577.png",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/BASE/UP1018-CUSA12824_00-HOGWARTSLEGACY01_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.05",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/UPDATE/1.05/UP1018-CUSA12824_00-HOGWARTSLEGACY01_UPD_00.pkg"
+        ]
+      }
+    ],
     "dlcs": [
       {
-        "nome": "Onyx Hippogriff Mount",
-        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-PREO01ALLP00R0HD.pkg"
+        "título": "Montagem de Hipogrifo de Ônix",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-PREO01ALLP00R0HD.pkg"
+        ]
       },
       {
-        "nome": "Astronomer's Hat",
-        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-PREO02AMZN00R0VO.pkg"
+        "título": "Chapéu de Astrônomo",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-PREO02AMZN00R0VO.pkg"
+        ]
       },
       {
-        "nome": "Felix Felicis Potion Recipe",
-        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-PREO03SONY00P0HD.pkg"
+        "title": "Receita da Poção Felix Felicis",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-PREO03SONY00P0HD.pkg"
+        ]
       },
       {
-        "nome": "Dark Arts Pack",
-        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-STOR01ALLP00R0VP.pkg"
+        "título": "Pacote de Artes das Trevas",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-STOR01ALLP00R0VP.pkg"
+        ]
       },
       {
-        "nome": "Dark Arts Garrison Hat",
-        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-STOR02ALLP00R0VO.pkg"
+        "título": "Chapéu de Guarnição das Artes das Trevas",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-STOR02ALLP00R0VO.pkg"
+        ]
       },
       {
-        "nome": "Haunted Hogsmeade Shop",
-        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-STOR03SONY00P0HD.pkg"
+        "título": "Loja Assombrada de Hogsmeade",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-STOR03SONY00P0HD.pkg"
+        ]
       },
       {
-        "nome": "Dark Arts Garrison Hat 2",
-        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-STOR07ALLP00R0VO.pkg"
+        "título": "Chapéu de Guarnição das Artes das Trevas",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-STOR07ALLP00R0VO.pkg"
+        ]
       }
-    ]
+    ],
+    "publisherId": "UP1018",
+    "titleId": "CUSA12824",
+    "contentLabel": "HOGWARTSLEGACY01",
+    "contentId": "UP1018-CUSA12824_00-HOGWARTSLEGACY01"
   },
   {
-    "nome": "God of War",
-    "cusa": "CUSA07408",
-    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png",
-    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/KAmUQWQ5V9QF3XDzmty1VkKj.png",
-    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/BASE/UP9000-CUSA07408_00-00000000GODOFWAR_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "Ação, Aventura",
-    "sinopse": "Em uma nova fase de sua vida, Kratos deixa para trás a era dos deuses do Olimpo e tenta sobreviver em um mundo nórdico hostil, repleto de criaturas, monstros e divindades. Ao lado do filho Atreus, ele encara ameaças inesperadas e uma jornada profundamente pessoal, enquanto aprende a ser pai — controlando a fúria que sempre o definiu e transformando-a em disciplina e proteção. Com forte foco em exploração, descoberta e narrativa emocional, a aventura combina escala épica com combates próximos intensos, mais táticos e precisos, apoiados por uma nova arma e habilidades que renovam a identidade da série.",
-    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/UPDATE/1.35/UP9000-CUSA07408_00-00000000GODOFWAR_UPD_00.pkg",
+    "título": "Deus da Guerra",
+    "tagline": "Forje um novo destino com Atreus nas terras dos deuses nórdicos.",
+    "description": "Em uma nova fase de sua vida, Kratos deixa para trás a era dos deuses do Olimpo e tenta sobreviver em um mundo nórdico hostil, repleto de criaturas, monstros e criaturas. Ao lado do Atreus, ele apresenta ameaças inesperadas e uma jornada profundamente pessoal, enquanto aprende a ser pai — controlando a fúria que sempre o definição e transformando-a em disciplina e proteção. Com forte foco em exploração, descoberta e narrativa emocional, a combinação escalada épica com combates próximos intensos, mais táticos e precisos, apoiados por uma nova arma e habilidades que renovam a identidade da série.",
+    "gêneros": ["Ação", "Aventura"],
+    "capa": "https://image.api.plays tation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png",
+    "banner": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/KAmUQWQ5V9QF3XDzmty1VkKj.png",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/BASE/UP9000-CUSA07408_00-00000000GODOFWAR_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.35",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/UPDATE/1.35/UP9000-CUSA07408_00-00000000GODOFWAR_UPD_00.pkg"
+        ]
+      }
+    ],
     "dlcs": [
       {
-        "nome": "Buckler of the Forge",
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00010000000000.pkg"
+        "título": "Broqueteiro da Forja",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00010000000000.pkg"
+        ]
       },
       {
-        "nome": "Shining Elven Soul-Shield",
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00020000000000.pkg"
+        "título": "Escudo da Alma Élfica Brilhante",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00020000000000.pkg"
+        ]
       },
       {
-        "nome": "Dökkenshieldr",
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00030000000000.pkg"
+        "título": "Dökkenshieldr",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00030000000000.pkg"
+        ]
       },
       {
-        "nome": "The Exile's Guardian",
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00040000000000.pkg"
+        "título": "O Guardião do Exilado",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00040000000000.pkg"
+        ]
       },
       {
-        "nome": "Defender of the Chosen",
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00050000000000.pkg"
+        "título": "Defensor dos Escolhidos",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00050000000000.pkg"
+        ]
       },
       {
-        "nome": "Grace of the Wanderer",
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00060000000000.pkg"
+        "título": "Graça do Andarilho",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00060000000000.pkg"
+        ]
       },
       {
-        "nome": "Luck of Ages Talisman (XP Boost)",
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00070000000000.pkg"
+        "título": "Talismã da Sorte das Eras (Aumento de XP)",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00070000000000.pkg"
+        ]
       },
       {
-        "nome": "Death's Vow Armor Set",
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-POA0010000000000.pkg"
+        "título": "Conjunto de Armadura do Juramento da Morte",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-POA0010000000000.pkg"
+        ]
       }
-    ]
+    ],
+    "publisherId": "UP9000",
+    "titleId": "CUSA07408",
+    "contentLabel": "00000000GODOFWAR",
+    "contentId": "UP9000-CUSA07408_00-00000000GODOFWAR"
   },
   {
-    "nome": "God of War Ragnarök",
-    "cusa": "CUSA34384",
+    "título": "Deus da Guerra Ragnarök",
+    "tagline": "O destino obriga a todos, até aos deuses.",
+    "description": "Kratos e Atreus devem viajar pelos Nove Reinos em busca de respostas enquanto as forças asgardianas se preparam para uma batalha profetizada que causará o fim do mundo.",
+    "gêneros": ["Ação", "Aventura"],
     "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1117/hguxDixf0FzALJnXNCc10Tdo.png",
-    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2016/1f4bf1ee42276b3841e71ebb812510493ce78bfc307d3296.jpg",
-    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/BASE/UP9000-CUSA34384_00-GOWRAGNAROK00000_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "Ação, Aventura",
-    "sinopse": "Kratos e Atreus devem viajar pelos Nove Reinos em busca de respostas enquanto as forças asgardianas se preparam para uma batalha profetizada que causará o fim do mundo.",
-    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/UPDATE/6.05/UP9000-CUSA34384_00-GOWRAGNAROK00000_UPD_00.pkg",
+    "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2016/1f4bf1ee42276b3841e71ebb812510493ce78bfc307d3296.jpg?w=1920",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/BASE/UP9000-CUSA34384_00-GOWRAGNAROK00000_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "6.05",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/UPDATE/6.05/UP9000-CUSA34384_00-GOWRAGNAROK00000_UPD_00.pkg"
+        ]
+      }
+    ],
     "dlcs": [
       {
-        "nome": "Digital Deluxe Edition",
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/DLC/UP9000-CUSA34384_00-GOWRAGNAROKDDE00.pkg"
+        "título": "Edição Digital Deluxe",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/DLC/UP9000-CUSA34384_00-GOWRAGNAROKDDE00.pkg"
+        ]
       },
       {
-        "nome": "Launch Edition Items",
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/DLC/UP9000-CUSA34384_00-GOWRAGNAROKPREOR.pkg"
+        "título": "Itens da Edição de Lançamento",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/DLC/UP9000-CUSA34384_00-GOWRAGNAROKPREOR.pkg"
+        ]
       },
       {
-        "nome": "Valhalla",
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/DLC/UP9000-CUSA34384_00-GOWRDLCCONTENT00.pkg"
+        "título": "Valhalla",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/DLC/UP9000-CUSA34384_00-GOWRDLCCONTENT00.pkg"
+        ]
       }
-    ]
+    ],
+    "publisherId": "UP9000",
+    "titleId": "CUSA34384",
+    "contentLabel": "GOWRAGNAROK00000",
+    "contentId": "UP9000-CUSA34384_00-GOWRAGNAROK00000"
   },
   {
-    "nome": "Resident Evil 4: Remake",
-    "cusa": "CUSA33387",
+    "título": "Resident Evil 4: Remake",
+    "tagline": "Sobrevivência é apenas o começo.",
+    "description": "Seis anos após o desastre biológico em Raccoon City, Leon S. Kennedy é enviado para resgatar a filha sequestrada do presidente dos EUA. A missão o leva a uma vila europeia isolada, onde algo profundamente errado tomou conta dos habitantes — e o que começa como um resgate se transforma em um pesadelo de ação e terror. Com jogabilidade modernizada, história reimaginada e gráficos com detalhes vívidos, este remake revisita o clássico que revolucionou o survival horror.",
+    "gêneros": ["Terror", "Ação", "Aventura"],
     "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png",
-    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0712/PjIoeaMt833otj5HukAWGfui.png",
-    "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/BASE/UP0102-CUSA33387_00-RE4RMAINGAME0000_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "Terror, Ação, Aventura",
-    "sinopse": "Seis anos após o desastre biológico em Raccoon City, Leon S. Kennedy é enviado para resgatar a filha sequestrada do presidente dos EUA. A missão o leva a uma vila europeia isolada, onde algo profundamente errado tomou conta dos habitantes — e o que começa como um resgate se transforma em um pesadelo de ação e terror. Com jogabilidade modernizada, história reimaginada e gráficos com detalhes vívidos, este remake revisita o clássico que revolucionou o survival horror.",
-    "update": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/UPDATE/1.11/UP0102-CUSA33387_00-RE4RMAINGAME0000_UPD_00.pkg",
+    "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0712/PjIoeaMt833otj5HukAWGfui.png",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/BASE/UP0102-CUSA33387_00-RE4RMAINGAME0000_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.11",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/UPDATE/1.11/UP0102-CUSA33387_00-RE4RMAINGAME0000_UPD_00.pkg"
+        ]
+      }
+    ],
     "dlcs": [
       {
-        "nome": "Separate Ways",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000001.pkg"
+        "título": "Caminhos Separados",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000001.pkg"
+        ]
       },
       {
-        "nome": "Treasure Map: Expansion",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000002.pkg"
+        "título": "Mapa do Tesouro: Expansão",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000002.pkg"
+        ]
       },
       {
-        "nome": "Leon & Ashley Costumes: 'Casual'",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000004.pkg"
+        "título": "Leon & Ashley Costumes: 'Casual'",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000004.pkg"
+        ]
       },
       {
-        "nome": "Leon & Ashley Costumes: 'Romantic'",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000005.pkg"
+        "título": "Leon & Ashley Costumes: 'Romântico'",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000005.pkg"
+        ]
       },
       {
-        "nome": "Leon Costume & Filter: 'Hero'",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000006.pkg"
+        "título": "Fantasia e filtro de Leon: 'Herói'",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000006.pkg"
+        ]
       },
       {
-        "nome": "Leon Costume & Filter: 'Villain'",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000007.pkg"
+        "título": "Fantasia e filtro de Leon: 'Vilão'",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000007.pkg"
+        ]
       },
       {
-        "nome": "'Original Ver.' Soundtrack Swap",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000008.pkg"
+        "título": "Troca da trilha sonora da versão original"
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000008.pkg"
+        ]
       },
       {
-        "nome": "Deluxe Weapon: 'Sentinel Nine'",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000009.pkg"
+        "título": "Arma de Luxo: 'Sentinela Nove'",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000009.pkg"
+        ]
       },
       {
-        "nome": "Deluxe Weapon: 'Skull Shaker'",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000010.pkg"
+        "título": "Arma de Luxo: 'Abalador de Crânios'",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000010.pkg"
+        ]
       },
       {
-        "nome": "Leon Accessory: 'Sunglasses (Sporty)'",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000011.pkg"
+        "título": "Acessório Leon: 'Óculos de Sol (Esportivos)'",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000011.pkg"
+        ]
       },
       {
-        "nome": "Attaché Case: 'Gold'",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000012.pkg"
+        "título": "Pasta de Attaché: 'Ouro'",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000012.pkg"
+        ]
       },
       {
-        "nome": "Attaché Case: 'Classic'",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000013.pkg"
+        "título": "Pasta de Attaché: 'Clássica'",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000013.pkg"
+        ]
       },
       {
-        "nome": "Charm: 'Handgun Ammo'",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000014.pkg"
+        "título": "Pingente: 'Munição de pistola'",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000014.pkg"
+        ]
       },
       {
-        "nome": "Charm: 'Green Herb'",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000015.pkg"
+        "título": "Encanto: 'Erva Verde'",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000015.pkg"
+        ]
       },
       {
-        "nome": "The Mercenaries",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000016.pkg"
+        "título": "Os Mercenários",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000016.pkg"
+        ]
       },
       {
-        "nome": "Weapon Exclusive Upgrade Ticket x1 (A)",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000017.pkg"
+        "título": "Bilhete de Aprimoramento Exclusivo de Arma x1 (A)",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000017.pkg"
+        ]
       },
       {
-        "nome": "Weapon Exclusive Upgrade Ticket x1 (B)",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000018.pkg"
+        "título": "Bilhete de Aprimoramento Exclusivo de Arma x1 (B)",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000018.pkg"
+        ]
       },
       {
-        "nome": "Weapon Exclusive Upgrade Ticket x1 (C)",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000019.pkg"
+        "título": "Bilhete de Aprimoramento Exclusivo de Arma x1 (C)",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000019.pkg"
+        ]
       },
       {
-        "nome": "Weapon Exclusive Upgrade Ticket x1 (D)",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000020.pkg"
+        "título": "Bilhete de Aprimoramento Exclusivo de Arma x1 (D)",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000020.pkg"
+        ]
       },
       {
-        "nome": "Weapon Exclusive Upgrade Ticket x1 (E)",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000021.pkg"
+        "título": "Bilhete de Aprimoramento Exclusivo de Arma x1 (E)",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000021.pkg"
+        ]
       },
       {
-        "nome": "Weapon Exclusive Upgrade Ticket x1 (F)",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000022.pkg"
+        "título": "Bilhete de Aprimoramento Exclusivo de Arma x1 (F)",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000022.pkg"
+        ]
       },
       {
-        "nome": "Weapon Exclusive Upgrade Ticket x3 (A)",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000023.pkg"
+        "título": "Bilhete de Aprimoramento Exclusivo de Arma x3 (A)",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000023.pkg"
+        ]
       },
       {
-        "nome": "Weapon Exclusive Upgrade Ticket x3 (B)",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000024.pkg"
+        "título": "Bilhete de Aprimoramento Exclusivo de Arma x3 (B)",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000024.pkg"
+        ]
       },
       {
-        "nome": "Weapon Exclusive Upgrade Ticket x3 (C)",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000025.pkg"
+        "título": "Bilhete de Aprimoramento Exclusivo de Arma x3 (C)",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000025.pkg"
+        ]
       },
       {
-        "nome": "Weapon Exclusive Upgrade Ticket x3 (D)",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000026.pkg"
+        "título": "Bilhete de Aprimoramento Exclusivo de Arma x3 (D)",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000026.pkg"
+        ]
       },
       {
-        "nome": "Weapon Exclusive Upgrade Ticket x5 (A)",
-        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000027.pkg"
+        "título": "Bilhete de Aprimoramento Exclusivo de Arma x5 (A)",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000027.pkg"
+        ]
       }
-    ]
+    ],
+    "publisherId": "UP0102",
+    "titleId": "CUSA33387",
+    "contentLabel": "RE4RMAINGAME0000",
+    "contentId": "UP0102-CUSA33387_00-RE4RMAINGAME0000"
   },
   {
-    "nome": "The Last of Us Part II",
-    "cusa": "CUSA07820",
-    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png",
-    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/UIRjzDjQKrOD4kx6ubmlOsrA.png",
-    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/BASE/UP9000-CUSA07820_00-THELASTOFUSPART2_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "Ação, Aventura",
-    "sinopse": "Cinco anos após a jornada pelos Estados Unidos em um cenário pós-pandêmico, Ellie e Joel se estabelecem em Jackson, Wyoming, tentando construir uma vida com alguma paz e estabilidade em meio à ameaça constante dos infectados — e de outros sobreviventes. Quando um evento violento rompe esse equilíbrio, Ellie inicia uma jornada incansável em busca de justiça e de um desfecho para aquilo que a marcou. A partir daí, cada passo aprofunda o peso das escolhas feitas, colocando-a frente a frente com impactos físicos e emocionais que não podem ser ignorados.",
-    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/UPDATE/1.09/UP9000-CUSA07820_00-THELASTOFUSPART2_UPD_00.pkg",
+    "título": "The Last of Us Part II",
+    "tagline": "Confronte as repercussões físicas e emocionais devastadoras de cada ação de Ellie.",
+    "description": "Cinco anos após uma jornada pelos Estados Unidos em um cenário pós-pandêmico, Ellie e Joel se estabelecem em Jackson, Wyoming, tentando construir uma vida com alguma paz e estabilidade em meio à ameaça constante dos infectados — e de outros sobreviventes. Quando um evento violento rompe esse equilíbrio, Ellie inicia uma jornada incansável em busca de justiça e de um fracasso para aquilo que a marcou. A partir daí, cada passo aprofunda o peso das escolhas feitas, colocando-a frente a frente com impactos sociais e emocionais que não podem ser ignorados.\n\nNo caminho, você vive uma narrativa intensa, que explora conflitos morais crescentes e questiona fronteiras entre certo e errado, bem e mal, herói e vilão — em um ciclo de violência que cobra seu preço. sistemas mais refinados: combate corpo a corpo de alta intensidade, movimento fluido, furtividade dinâmica e um conjunto amplo de armas, itens de criação e habilidades que permitem adaptar o estilo de jogo às suas escolhas.",
+    "gêneros": ["Ação", "Aventura"],
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png"
+    "banner": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/UIRjzDjQKrOD4kx6ubmlOsrA.png",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/BASE/UP9000-CUSA07820_00-THELASTOFUSPART2_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.09",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/UPDATE/1.09/UP9000-CUSA07820_00-THELASTOFUSPART2_UPD_00.pkg"
+        ]
+      }
+    ],
     "dlcs": [
       {
-        "nome": "The Last of Us Part II Bonus Pack",
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/DLC/UP9000-CUSA07820_00-T2PREO0000000000-A0000-V0100-DIURYDUARTE.pkg"
+        "título": "Pacote Bônus de The Last of Us Part II",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/DLC/UP9000-CUSA07820_00-T2PREO0000000000-A0000-V0100-DIURYDUARTE.pkg"
+        ]
       }
-    ]
+    ],
+    "publisherId": "UP9000",
+    "titleId": "CUSA07820",
+    "contentLabel": "THELASTOFUSPART2",
+    "contentId": "UP9000-CUSA07820_00-THELASTOFUSPART2"
   },
   {
-    "nome": "World War Z",
-    "cusa": "CUSA14046",
+    "título": "Guerra Mundial Z",
+    "tagline": "Cooperativo intenso e hordas insanas.",
+    "description": "A humanidade está à beira da extinção. De Nova York a Moscou e Jerusalém, o apocalipse zumbi continua a se espalhar. Conforme o fim se aproxima, um pequeno grupo de sobreviventes se une para derrotar a horda e sobreviver aos mortos.\n\nWorld War Z é um jogo de tiro em terceira pessoa cooperativo e eletrizante para até 4 jogadores, com hordas de centenas de zumbis. Baseado no filme da Paramount Pictures, World War Z foca em jogabilidade frenética enquanto explora novas histórias ao ao redor do mundo.",
+    "gêneros": ["Ação", "Tiro"],
     "capa": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png",
-    "background": "https://image.api.playstation.com/vulcan/img/rnd/202009/2808/9BLGIeD8OgI8cCbOEDbYjdnw.jpg",
-    "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/BASE/UP2746-CUSA14046_00-WWZTHEGAME201800_BASE_0.pkg",
-    "tamanho": "N/A",
-    "regiao": "USA",
-    "genero": "Ação, Tiro",
-    "sinopse": "A humanidade está à beira da extinção. De Nova York a Moscou e Jerusalém, o apocalipse zumbi continua a se espalhar. Conforme o fim se aproxima, um pequeno grupo de sobreviventes se une para derrotar a horda e sobreviver aos mortos. World War Z é um jogo de tiro em terceira pessoa cooperativo e eletrizante para até 4 jogadores, com hordas de centenas de zumbis. Baseado no filme da Paramount Pictures, World War Z foca em jogabilidade frenética enquanto explora novas histórias ao redor do mundo.",
-    "update": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_00.pkg",
+    "banner": "https://image.api.playstation.com/vulcan/img/rnd/202009/2808/9BLGIeD8OgI8cCbOEDbYjdnw.jpg?w=1920&thumb=false",
+    "base": {
+      "arquivos": [
+        "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/BASE/UP2746-CUSA14046_00-WWZTHEGAME201800_BASE_0.pkg",
+        "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/BASE/UP2746-CUSA14046_00-WWZTHEGAME201800_BASE_1.pkg",
+        "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/BASE/UP2746-CUSA14046_00-WWZTHEGAME201800_BASE_2.pkg",
+        "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/BASE/UP2746-CUSA14046_00-WWZTHEGAME201800_BASE_3.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.69",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_00.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_01.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_02.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_03.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_04.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_05.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_06.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_07.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_08.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_09.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_10.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_11.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_12.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_13.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_14.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_15.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_16.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_17.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_18.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_19.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_20.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_21.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_22.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_23.pkg",
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_24.pkg"
+        ]
+      }
+    ],
     "dlcs": [
       {
-        "nome": "Desert Defenders Weapons Pack",
-        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCDESERT0000000.pkg"
+        "título": "Pacote de Armas Defensores do Deserto",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCDESERT0000000.pkg"
+        ]
       },
       {
-        "nome": "Valley of the Zeke Episode",
-        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCVALLEY0000000.pkg"
+        "título": "Pacote de Skins de Armas Flor Dourada",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCGOLDENBLOOM00.pkg"
+        ]
       },
       {
-        "nome": "Sin City Apocalypse Episode",
-        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZADLCVEGASEP00.pkg"
+        "título": "Pacote de Skins de Armas do Vício Mortal",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCMIAMI00000000.pkg"
+        ]
       },
       {
-        "nome": "Marseille Episode",
-        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN702.pkg"
+        "título": "Pacote de Skins de Armas Crânios Ardentes",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCPEP0000000000.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Skins de Armas Volta da Vitória",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCRACE000000000.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Skins de Armas Rat Packs"
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCRAT0000000000.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Skins de Armas Raven",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCRAVEN00000000.pkg"
+        ]
+      },
+      {
+        "título": "Episódio do Vale do Zeke",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCVALLEY0000000.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Skins de Personagens Pré-Apocalípticos",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-PREAPDLC00000000.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Skins Chibi Izzy",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZADLCIZZYSKIN0.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Skins Chibi Kimiko",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZADLCKIMIKOSKN.pkg"
+        ]
+      },
+      {
+        "título": "Episódio Apocalipse de Sin City",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZADLCVEGASEP00.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Skins Vegas",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZADLCVEGASSKIN.pkg"
+        ]
+      },
+      {
+        "título": "Moeda",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZCURRENCY20180.pkg"
+        ]
+      },
+      {
+        "Título": "Atualização para Aftermath",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZDLCAM000000US.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Skins de Armas de Explorador",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZEXPLORER000US.pkg"
+        ]
+      },
+      {
+        "título": "Passe de Temporada",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZSEASONPASSUS1.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Armas Lobo",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN000.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Armas de Risco Biológico",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN203.pkg"
+        ]
+      },
+      {
+        "título": "Pacote das Forças de Operações Especiais",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN302.pkg"
+        ]
+      },
+      {
+        "título": "O Pacote dos Profissionais",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN402.pkg"
+        ]
+      },
+      {
+        "título": "Pacote Heróis de Guerra",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN502.pkg"
+        ]
+      },
+      {
+        "título": "Kit de Últimos Socorros",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN602.pkg"
+        ]
+      },
+      {
+        "título": "Episódio de Marselha",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN702.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Armas Exclusivas",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZWEAPONSKIN802.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Armas Zeke Hunter",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-WWZZEKEDLC0000US.pkg"
+        ]
       }
-    ]
+    ],
+    "publisherId": "UP2746",
+    "titleId": "CUSA14046",
+    "contentLabel": "WWZTHEGAME201800",
+    "contentId": "UP2746-CUSA14046_00-WWZTHEGAME201800"
   },
   {
-    "nome": "Days Gone",
-    "cusa": "CUSA09175",
+    "título": "Dias Passados",
+    "tagline": "Este mundo vem atrás de você.",
+    "description": "Days Gone é um jogo de ação e aventura em mundo aberto ambientado dois anos após uma pandemia global devastadora. Você joga como Deacon St. improviso: crie itens e armadilhas, combine armas e escolha bem cada ação — porque, aqui, um erro pode custar tudo.",
+    "gêneros": ["Terror", "Aventura", "Ação"],
     "capa": "https://image.api.playstation.com/vulcan/img/rnd/202011/1204/wYL4v2r8uMQFvVTJlfuj8ICk.png",
-    "background": "https://image.api.playstation.com/vulcan/img/rnd/202011/1118/sQPqzvzBsYoCq5MEkAc7v1Rs.jpg",
-    "url": "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/BASE/EP9000-CUSA09175_00-DAYSGONECOMPLETE_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "Terror, Aventura, Ação",
-    "sinopse": "Days Gone é um jogo de ação e aventura em mundo aberto ambientado dois anos após uma pandemia global devastadora. Você joga como Deacon St. John, um andarilho e caçador de recompensas que atravessa estradas perigosas em sua moto, lutando para sobreviver — e buscando uma razão para continuar. Explore ambientes vastos e hostis, vasculhe recursos em veículos e locais abandonados e se adapte aos riscos trazidos pelo ciclo de dia e noite e pelo clima dinâmico.",
-    "update": "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/UPDATE/1.84/EP9000-CUSA09175_00-DAYSGONECOMPLETE_UPD_00.pkg",
+    "banner": "https://image.api.playstation.com/vulcan/img/rnd/202011/1118/sQPqzvzBsYoCq5MEkAc7v1Rs.jpg",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/BASE/EP9000-CUSA09175_00-DAYSGONECOMPLETE_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.84",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/UPDATE/1.84/EP9000-CUSA09175_00-DAYSGONECOMPLETE_UPD_00.pkg"
+        ]
+      }
+    ],
     "dlcs": [
       {
-        "nome": "Pre-Order Bonuses",
-        "url": "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/DLC/EP9000-CUSA09175_00-DAYSGONEPREBONUS.pkg"
+        "título": "Bônus de pré-venda",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/DLC/EP9000-CUSA09175_00-DAYSGONEPREBONUS.pkg"
+        ]
       },
       {
-        "nome": "Bike Skins / Monkey Wrench Skill Early Unlock",
-        "url": "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/DLC/EP9000-CUSA09175_00-DAYSGONECEBONUS1.pkg"
+        "título": "Skins de Bicicleta / Desbloqueio Antecipado da Habilidade Chave Inglesa"
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/DLC/EP9000-CUSA09175_00-DAYSGONECEBONUS1.pkg"
+        ]
       }
-    ]
+    ],
+    "publisherId": "EP9000",
+    "titleId": "CUSA09175",
+    "contentLabel": "DAYSGONECOMPLETE",
+    "contentId": "EP9000-CUSA09175_00-DAYSGONECOMPLETE"
   },
   {
-    "nome": "Call of Duty: Modern Warfare III",
-    "cusa": "CUSA23827",
+    "título": "Call of Duty: Modern Warfare III",
+    "Slogan": "A guerra mudou."
+    "description": "Nesta sequência direta do recordista Call of Duty®: Modern Warfare® II, o Capitão Price e a Força-tarefa 141 voltam ao centro do conflito diante de uma ameaça que eleva a guerra a outro patamar. A agressão de guerra ultranacionalista Vladimir Makarov está expandindo seu alcance pelo mundo, forçando a Força-tarefa 141 a enfrentar uma luta mais intensa do que nunca.\n\nNo Multijogador, Modern Warfare® III comemora o 20º aniversário de Call of Duty® com uma das maiores coleções de mapas já reunidas, combinando novidades e favoritos dos fãs é o retorno de todos os 16 mapas de lançamento do Modern Warfare® 2 original (2009), agora modernizados com novos modos e recursos de jogabilidade — além de vários mapas principais 6v6 novos, ampliando as de confronto desde o início.\n\nJá no modo Zumbis, o jogo traz um novo mundo aberto: pela primeira vez, você pode formar equipes com outros. esquadrões para sobreviver e enfrentar imensas hordas de mortos-vivos. O Modern Warfare® Zumbis (MWZ) apresenta uma nova história de Zumbis da Treyarch, com missões, elementos centrais do modo e segredos para descobrir ao longo da experiência.\n\n",
+    "gêneros": ["Ação", "Tiro"],
     "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png",
-    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1415/8d9af953f938ba6cb9f9e73cd94424df2d33b0f313794739.png",
-    "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/BASE/UP0002-CUSA23827_00-COREGAME00000001.pkg",
-    "tamanho": "N/A",
-    "regiao": "USA",
-    "genero": "Ação, Tiro",
-    "sinopse": "Nesta sequência direta do recordista Call of Duty®: Modern Warfare® II, o Capitão Price e a Força-tarefa 141 voltam ao centro do conflito diante de uma ameaça que eleva a guerra a outro patamar. O criminoso de guerra ultranacionalista Vladimir Makarov está expandindo seu alcance pelo mundo, forçando a Força-tarefa 141 a enfrentar uma luta mais intensa do que nunca. No Multijogador, Modern Warfare® III celebra o 20º aniversário de Call of Duty® com uma das maiores coleções de mapas já reunidas.",
-    "update": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_00.pkg",
+    "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1415/8d9af953f938ba6cb9f9e73cd94424df2d33b0f313794739.png",
+    "base": {
+      "arquivos": [
+        "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/BASE/UP0002 -CUSA23827_00-COREGAME00000001.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.33",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_00.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_01.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_02.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_03.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_04.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_05.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_06.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_07.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_08.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_09.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_10.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_11.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_12.pkg"
+        ]
+      }
+    ],
     "dlcs": [
       {
-        "nome": "Campaign Pack 1",
-        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_00.pkg"
+        "título": "Pacote de Campanha 1",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_00.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_01.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_02.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_03.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_04.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_05.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_06.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_07.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_08.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_09.pkg"
+        ]
       },
       {
-        "nome": "Campaign Pack 2",
-        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_00.pkg"
+        "título": "Pacote de Campanha 2",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_00.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_01.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_02.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_03.pkg",
+          "http://files.duskaryon.p p.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_04.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_05.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_06.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_07.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_08.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_09.pkg"
+        ]
       },
       {
-        "nome": "Multiplayer Pack",
-        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_00.pkg"
+        "título": "Esboço de Jogo 01",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Game%20Stub%2001/UP0002-CUSA23827_00-CODMW3STUB000001.pkg"
+        ]
+      },
+      {
+        "título": "Esboço de Jogo 02",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Game%20Stub%2002/UP0002-CUSA23827_00-CODMW3STUB000002.pkg"
+        ]
+      },
+      {
+        "título": "Esboço de Jogo 03",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Game%20Stub%2003/UP0002-CUSA23827_00-CODMW3STUB000003.pkg"
+        ]
+      },
+      {
+        "título": "Esboço de Jogo 04",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Game%20Stub%2004/UP0002-CUSA23827_00-CODMW3STUB000004.pkg"
+        ]
+      },
+      {
+        "título": "Esboço de Jogo 05",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Game%20Stub%2005/UP0002-CUSA23827_00-CODMW3STUB000005.pkg"
+        ]
+      },
+      {
+        "título": "Pacote Multijogador",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_00.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_01.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_02.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_03.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_04.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_05.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_06.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_07.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_08.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_09.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_10.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_11.pkg"
+        ]
+      },
+      {
+        "título": "Licença de Disco PS4",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/PS4%20Disc%20License/UP0002-CUSA23827_00-CODMW3PS4DISC000.pkg"
+        ]
       }
-    ]
+    ],
+    "publisherId": "UP0002",
+    "titleId": "CUSA23827",
+    "contentLabel": "COREGAME00000001",
+    "contentId": "UP0002-CUSA23827_00-COREGAME00000001"
   },
   {
-    "nome": "Cyberpunk 2077",
-    "cusa": "CUSA16596",
+    "título": "Call of Duty: Vanguard",
+    "tagline": "Conquiste todas as frentes",
+    "description": "Call of Duty: Vanguard leva você às batalhas fundamentais da Segunda Guerra Mundial em múltiplos teatros de guerra, acompanhando a formação de um grupo de soldados de diferentes origens que se unem para dar início às Forças Especiais (a Força-Tarefa Um).\n\nAlém da campanha competitiva, o jogo oferece um multijogador focado em combate acelerado “em todas as frentes” e um modo Zumbis cooperativo desenvolvido pela Treyarch, expandindo a experiência para quem busca desafio em equipe.",
+    "gêneros": ["Tiro"],
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202109/2218/JelPN9rNJfDtoQJTwDsa0deG.png"
+    "banner": "https://image.api.playstation.com/vulcan/img/rnd/202108/2318/laMdtTUhSHB2neSymEjIt5oF.jpg",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/BASE/UP0002-CUSA24041_00-CODVTHEGAME00001_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.26",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/UPDATE/1.26/UP0002-CUSA24041_00-CODVTHEGAME00001_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": [
+      {
+        "título": "Base de Campanha",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/DLC/UP0002-CUSA24041_00-CODVCONTENT00001.pkg "
+        ]
+      },
+      {
+        "título": "Campanha 1",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/DLC/UP0002-CUSA24041_00-CODVCONTENT00002.pkg"
+        ]
+      },
+      {
+        "título": "Campanha 2",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/DLC/UP0002-CUSA24041_00-CODVCONTENT00004.pkg"
+        ]
+      }
+    ],
+    "publisherId": "UP0002",
+    "titleId": "CUSA24041",
+    "contentLabel": "CODVTHEGAME00001",
+    "contentId": "UP0002-CUSA24041_00-CODVTHEGAME00001"
+  },
+  {
+    "título": "Cyberpunk 2077",
+    "tagline": "Aqui nascem as lendas. Qual será a sua?",
+    "description": "Cyberpunk 2077 é um RPG de ação e aventura em mundo aberto ambientado em Night City, uma megalópole obcecada por poder, glamour e modificações corporais. Você joga como V, um mercenário cyberpunk, e pode personalizar seu personagem e seu estilo de jogo enquanto aceita trabalhos, construção convencional e instalações melhorias. Suas escolhas — e os relacionamentos que você cria — moldam o revelador da história e o impacto que você deixa na cidade.",
+    "gêneros": [
+      "Ação",
+      "Aventura",
+      "RPG"
+    ],
     "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png",
-    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0511/fb9ce1671c6a36fdf1e6548ab8947940f1fc2a1c873ae83d.jpg",
-    "url": "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/BASE/UP4497-CUSA16596_00-0000000000000004_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "Ação, Aventura, RPG",
-    "sinopse": "Cyberpunk 2077 é um RPG de ação e aventura em mundo aberto ambientado em Night City, uma megalópole obcecada por poder, glamour e modificações corporais. Você joga como V, um mercenário cyberpunk, e pode personalizar seu personagem e seu estilo de jogo enquanto aceita trabalhos, constrói reputação e instala melhorias. Suas escolhas — e os relacionamentos que você cria — moldam o desenrolar da história e o impacto que você deixa na cidade.",
-    "update": "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/UPDATE/1.61/UP4497-CUSA16596_00-0000000000000004_UPD_00.pkg",
-    "dlcs": []
+    "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0511/fb9ce1671c6a36fdf1e6548ab8947940f1fc2a1c873ae83d.jpg",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/BASE/UP4497-CUSA16596_00-0000000000000004_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.61",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/UPDATE/1.61/UP4497-CUSA16596_00-0000000000000004_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": [],
+    "publisherId": "UP4497",
+    "titleId": "CUSA16596",
+    "contentLabel": "0000000000000004",
+    "contentId": "UP4497-CUSA16596_00-0000000000000004"
   },
   {
-    "nome": "Horizon Zero Dawn: Complete Edition",
-    "cusa": "CUSA10237",
+    "título": "Horizon Zero Dawn: Edição Completa",
+    "tagline": "Viva a aventura completa.",
+    "description": "Assuma o papel de Aloy, uma caçadora habilidosa, e explore um mundo aberto exuberante - e ao mesmo tempo pós-apocalíptico - dominado por máquinas misteriosas.
+    "gêneros": [
+      "RPG",
+      "Ação"
+    ],
     "capa": "https://image.api.playstation.com/vulcan/img/rnd/202011/1018/9erXiwu0ozgKGPIUVTuy2siN.png",
-    "background": "https://image.api.playstation.com/vulcan/img/rnd/202009/2923/LyLrdlIfqiVzvynWJGtNfbU8.png",
-    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/BASE/UP9000-CUSA10237_00-HRZCE00000000000_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "RPG, Ação",
-    "sinopse": "Assuma o papel de Aloy, uma caçadora habilidosa, e explore um mundo aberto exuberante — e ao mesmo tempo pós-apocalíptico — dominado por máquinas misteriosas. Investigue ruínas, relíquias e construções antigas para entender o que aconteceu com a civilização que existia ali e quais são as intenções dessas criaturas mecanizadas. Em combate, vença inimigos maiores e tecnologicamente superiores usando estratégia, agilidade e inteligência, combinando velocidade e precisão para sobreviver a cada encontro.",
-    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/UPDATE/1.54/UP9000-CUSA10237_00-HRZCE00000000000_UPD_00.pkg",
-    "dlcs": []
+    "banner": "https://image.api.playstation.com/vulcan/img/rnd/202009/2923/LyLrdlIfqiVzvynWJGtNfbU8.png",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/BASE/UP9000-CUSA10237_00-HRZCE00000000000_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.54",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/UPDATE/1.54/UP9000-CUSA10237_00-HRZCE00000000000_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": [],
+    "publisherId": "UP9000",
+    "titleId": "CUSA10237",
+    "contentLabel": "HRZCE00000000000",
+    "contentId": "UP9000-CUSA10237_00-HRZCE00000000000"
   },
   {
-    "nome": "LEGO Star Wars: The Skywalker Saga",
-    "cusa": "CUSA13794",
+    "título": "LEGO Star Wars: A Saga Skywalker",
+    "tagline": "Construa a sua própria história.",
+    "descrição": "",
+    "gêneros": ["Ação"],
     "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png",
-    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/huLsTFyulvj2fC0nbRaVUChw.png",
-    "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "Ação",
-    "sinopse": "",
-    "update": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/UPDATE/1.09/UP1018-CUSA13794_00-LEGOSWTSS0000000_UPD_00.pkg",
+    "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/huLsTFyulvj2fC0nbRaVUChw.png",
+    "base": {
+      "arquivos": [
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_00.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_01.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_02.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_03.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_04.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_05.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_06.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_07.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_08.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_09.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_10.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_11.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_12.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_13.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_14.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_15.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_16.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_17.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_18.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_19.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_20.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_21.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_22.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_23.pkg" ,
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_24.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_25.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_26.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_27.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_28.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_29.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_30.pkg",
+        "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_31.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.09",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/UPDATE/1.09/UP1018-CUSA13794_00-LEGOSWTSS0000000_UPD_00.pkg",
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/UPDATE/1.09/UP1018-CUSA13794_00-LEGOSWTSS0000000_UPD_01.pkg",
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/UPDATE/1.09/UP1018-CUSA13794_00-LEGOSWTSS0000000_UPD_02.pkg"
+        ]
+      }
+    ],
     "dlcs": [
       {
-        "nome": "Book of Boba Fett Pack",
-        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Book%20of%20Boba%20Fett%20Pack/UP1018-CUSA13794_00-BOBAFETTPACK0001.pkg"
+        "título": "Pacote Livro de Boba Fett",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Book%20of%20Boba%20Fett%20Pack/UP1018-CUSA13794_00-BOBAFETTPACK0001.pkg"
+        ]
       },
       {
-        "nome": "Rogue One: A Star Wars Story Character Pack",
-        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Rogue%20One:%20A%20Star%20Wars%20Story%20Character%20Pack/UP1018-CUSA13794_00-ROGUEONEPACK0001.pkg"
+        "título": "Obi-Wan Kenobi Clássico",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Classic%20Obi-Wan%20Kenobi/UP1018-CUSA13794_00-OBIWANPACK000001.pkg"
+        ]
       },
       {
-        "nome": "Solo: A Star Wars Story Character Pack",
-        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Solo:%20A%20Star%20Wars%20Story%20Character%20Pack/UP1018-CUSA13794_00-SOLOPACK00000001.pkg"
+        "título": "Pacote de Personagens de Rogue One: Uma História Star Wars",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Rogue%20One:%20A%20Star%20Wars%20Story%20Character%20Pack/UP1018-CUSA13794_00-ROGUEONEPACK0001.pkg"
+        ]
       },
       {
-        "nome": "The Bad Batch Character Pack",
-        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Bad%20Batch%20Character%20Pack/UP1018-CUSA13794_00-BADBATCHPACK0001.pkg"
+        "título": "Pacote de Personagens de Solo: Uma História Star Wars",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Solo:%20A%20Star%20Wars%20Story%20Character%20Pack/UP1018-CUSA13794_00-SOLOPACK00000001.pkg"
+        ]
       },
       {
-        "nome": "The Mandalorian Season 1 Character Pack",
-        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Mandalorian%20Season%201%20Character%20Pack/UP1018-CUSA13794_00-MANDALORIANPACK1.pkg"
+        "título": "Pacote de Personagens do Bad Batch",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Bad%20Batch%20Character%20Pack/UP1018-CUSA13794_00-BADBATCHPACK0001.pkg"
+        ]
       },
       {
-        "nome": "The Mandalorian Season 2 Character Pack",
-        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Mandalorian%20Season%202%20Character%20Pack/UP1018-CUSA13794_00-MANDALORIANPACK2.pkg"
+        "título": "Pacote de Personagens da 1ª Temporada de The Mandalorian",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Mandalorian%20Season%201%20Character%20Pack/UP1018-CUSA13794_00-MANDALORIANPACK1.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Personagens da 2ª Temporada de The Mandalorian"
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Mandalorian%20Season%202%20Character%20Pack/UP1018-CUSA13794_00-MANDALORIANPACK2.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Personagens Andor da Saga Skywalker",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Andor%20Character%20Pack/UP1018-CUSA13794_00-ANDORPACK0000001.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Personagens Clássicos da Saga Skywalker",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Classic%20Character%20Pack/UP1018-CUSA13794_00-CLASSICPACK00001.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Personagens Obi-Wan Kenobi da Saga Skywalker"
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Obi-Wan%20Kenobi%20Character%20Pack/UP1018-CUSA13794_00-KENOBIPACK000001.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Personagens Rebeldes da Saga Skywalker",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Rebels%20Character%20Pack/UP1018-CUSA13794_00-REBELPACK0000001.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Personagens de Férias de Verão da Saga Skywalker",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Summer%20Vacation%20Character%20Pack/UP1018-CUSA13794_00-HOLIDAYPACK00001.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Personagens da Saga Skywalker: The Clone Wars",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20The%20Clone%20Wars%20Character%20Pack/UP1018-CUSA13794_00-CLONEWARSPACK001.pkg"
+        ]
+      },
+      {
+        "título": "Pacote de Soldados da Saga Skywalker",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Trooper%20Pack/UP1018-CUSA13794_00-STORMTROOPERPACK.pkg"
+        ]
       }
-    ]
+    ],
+    "publisherId": "UP1018",
+    "titleId": "CUSA13794",
+    "contentLabel": "LEGOSWTSS0000000",
+    "contentId": "UP1018-CUSA13794_00-LEGOSWTSS0000000"
   },
   {
-    "nome": "Star Wars Jedi: Survivor",
-    "cusa": "CUSA33778",
+    "título": "Star Wars Jedi: Sobrevivente",
+    "taglin e": "Fuja do Império e sobreviva como um dos últimos Jedi na galáxia.",
+    "description": "Cinco anos após os eventos de STAR WARS Jedi: Fallen Order, Cal Kestis segue em fuga e cada vez mais restrito pela perseguição implacável do Império. Em uma galáxia que mergulha em tempos sombrios, ele precisará ir além do próprio limite para proteger sua equipe e manter vivo o legado da Ordem Jedi.\n\nCom combate cinematográfico aprimorado, novas habilidades da Força e estilos de luta com saber de luz, uma jornada mistura exploração e ação em novos planetas e fronteiras conhecidas — cada um com desafios, inimigos e biomas únicos — exigindo estratégia, domínio de treinamento e adaptação constante para sobreviver.",
+    "gêneros": ["Ação"],
     "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1016/47becbe467e18575f71429abbaec9af707865744b825f34d.png",
-    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2814/24a5bc14faa8f69c74a9a8d7b729509841a1c9046bc9a7f3.png",
-    "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/BASE/UP0006-CUSA33778_00-APPLEJACKGAME000_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "Ação",
-    "sinopse": "Cinco anos após os eventos de STAR WARS Jedi: Fallen Order, Cal Kestis segue em fuga e cada vez mais pressionado pela perseguição implacável do Império. Em uma galáxia que mergulha em tempos sombrios, ele precisará ir além do próprio limite para proteger sua equipe e manter vivo o legado da Ordem Jedi. Com combate cinematográfico aprimorado, novas habilidades da Força e estilos de luta com sabre de luz, a jornada mistura exploração e ação em novos planetas e fronteiras conhecidas.",
-    "update": "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/UPDATE/1.03/UP0006-CUSA33778_00-APPLEJACKGAME000_UPD_00.pkg",
-    "dlcs": []
+    "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2814/24a5bc14faa8f69c74a9a8d7b729509841a1c9046bc9a7f3.png",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/BASE/UP0006-CUSA33778_00-APPLEJACKGAME000_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.03",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/UPDATE/1.03/UP0006-CUSA33778_00-APPLEJACKGAME000_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": [],
+    "publisherId": "UP0006",
+    "titleId": "CUSA33778",
+    "contentLabel": "APPLEJACKGAME000",
+    "contentId": "UP0006-CUSA33778_00-APPLEJACKGAME000"
   },
   {
-    "nome": "Marvel's Spider-Man: Game of the Year Edition",
-    "cusa": "CUSA02299",
-    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png",
-    "background": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/Cu9fyu6DM41JPekXLf1neF9r.png",
-    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/BASE/UP9000-CUSA02299_00-MARVELSSPIDERMAN_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "Ação",
-    "sinopse": "Viva a versão completa de Marvel's Spider-Man com um Peter Parker mais experiente, enfrentando grandes criminosos enquanto tenta equilibrar vida pessoal e carreira — tudo isso com o destino da Nova York da Marvel em jogo. A edição Jogo do Ano inclui o game base e o arco completo do DLC \"A Cidade que Nunca Dorme\" para download (com os três capítulos).",
-    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/UPDATE/1.19/UP9000-CUSA02299_00-MARVELSSPIDERMAN_UPD_00.pkg",
+    "título": "Marvel's Spider-Man: Edição Jogo do Ano",
+    "tagline": "Nova York nas suas mãos.",
+    "description": "Viva a versão completa de Marvel's Spider-Man com um Peter Parker mais experiência, enfrentando grandes sofrimentos enquanto tenta equilibrar vida pessoal e carreira — tudo isso com o destino da Nova York da Marvel em jogo. A edição Jogo do Ano inclui o game base e o arco completo do DLC “A Cidade que Nunca Dorme” para download (com os três capítulos).",
+    "gêneros": ["Ação"],
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png"
+    "banner": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/Cu9fyu6DM41JPekXLf1neF9r.png",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/BASE/UP9000-CUSA02299_00-MARVELSSPIDERMAN_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.19",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/UPDATE/1.19/UP9000-CUSA02299_00-MARVELSSPIDERMAN_UPD_00.pkg"
+        ]
+      }
+    ],
     "dlcs": [
       {
-        "nome": "The Heist",
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-000000000000DLC1-A0000-V0100.pkg"
+        "título": "O Assalto",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-000000000000DLC1-A0000-V0100.pkg"
+        ]
       },
       {
-        "nome": "Turf Wars",
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-000000000000DLC2-A0000-V0100.pkg"
+        "título": "Guerras Territoriais",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-000000000000DLC2-A0000-V0100.pkg"
+        ]
       },
       {
-        "nome": "Silver Lining",
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-000000000000DLC3-A0000-V0100.pkg"
+        "título": "Lado Bom",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-000000000000DLC3-A0000-V0100.pkg"
+        ]
+      },
+      {
+        "título": "Bônus de pré-venda",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-00000000PREORDER-A0000-V0100.pkg"
+        ]
       }
-    ]
+    ],
+    "publisherId": "UP9000",
+    "titleId": "CUSA02299",
+    "contentLabel": "MARVELSSPIDERMAN",
+    "contentId": "UP9000-CUSA02299_00-MARVELSSPIDERMAN"
   },
   {
-    "nome": "Marvel's Spider-Man: Miles Morales",
-    "cusa": "CUSA17722",
+    "título": "Homem-Aranha da Marvel: Miles Morales",
+    "tagline": "Seja mais. Seja você mesmo.",
+    "description": "Na mais nova aventura do universo de Marvel's Spider-Man, Miles Morales tenta se adaptar ao novo lar enquanto segue os passos de Peter Parker para assumir seu lugar como o novo Spider-Man. Quando um conflito violento ameaça sua vizinhança, Miles precisa entender o peso de suas responsabilidades e fazer escolhas difíceis para proteger a Nova York da Marvel.",
+    "gêneros": ["Ação"],
     "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png",
-    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/2417/tnCutdREPv6Pa7atqb8MTxGW.png",
-    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/BASE/UP9000-CUSA17722_00-MARVELSSMMORALES_BASE.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "Ação",
-    "sinopse": "Na mais nova aventura do universo de Marvel's Spider-Man, Miles Morales tenta se adaptar ao novo lar enquanto segue os passos de Peter Parker para assumir seu lugar como o novo Spider-Man. Quando um conflito violento ameaça sua vizinhança, Miles precisa entender o peso de suas responsabilidades e fazer escolhas difíceis para proteger a Nova York da Marvel.",
-    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/UPDATE/1.14/UP9000-CUSA17722_00-MARVELSSMMORALES_UPD.pkg",
+    "banner": "https://image.api.playstation.com/vulcan/img/rnd/202010/2417/tnCutdREPv6Pa7atqb8MTxGW.png",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/BASE/UP9000-CUSA17722_00-MARVELSSMMORALES_BASE.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.14",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/UPDATE/1.14/UP9000-CUSA17722_00-MARVELSSMMORALES_UPD.pkg"
+        ]
+      }
+    ],
     "dlcs": [
       {
-        "nome": "Spider-Man: Into the Spider-Verse Suit",
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTSPIDVERSESUIT.pkg"
+        "título": "Dispositivo de Poço Gravitacional",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTGRAVITYWELL00.pkg"
+        ]
       },
       {
-        "nome": "Three Skill Points",
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTPLUSTHREEPTSX.pkg"
+        "título": "Três Pontos de Habilidade",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTPLUSTHREEPTSX.pkg"
+        ]
+      },
+      {
+        "título": "Traje do Homem-Aranha: No Aranhaverso",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTSPIDVERSESUIT.pkg"
+        ]
+      },
+      {
+        "título": "Agasalho Esportivo",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTTRACKSUIT0000.pkg"
+        ]
       }
-    ]
+    ],
+    "publisherId": "UP9000",
+    "titleId": "CUSA17722",
+    "contentLabel": "MARVELSSMMORALES",
+    "contentId": "UP9000-CUSA17722_00-MARVELSSMMORALES"
   },
   {
-    "nome": "EA Sports FC 26",
-    "cusa": "CUSA52342",
+    "título": "EA Sports FC 26",
+    "slogan": "O clube é seu.",
+    "description": "EA SPORTS FC™ 26 traz a emoção do futebol em um pacote completo: partidas intensas, atmosfera de estádio e controle refinado para você jogar do seu jeito. Monte seu tempo, evolua seu estilo, encare desafios e busque a vitória em modos competitivos e experiências para jogar sozinho ou com amigos. Entre em campo e sua história de escrita a cada temporada.",
+    "gêneros": ["Esporte"],
     "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1617/2e757ffb0a6bb4b91af84db64e0183d725e56e5354f45eba.png",
-    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1617/27132291f4187708f316b43f65ab887a74fdf325f4ece306.png",
-    "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/BASE/UP0006-CUSA52342_00-EASPORTSFC2026BG_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "Esporte",
-    "sinopse": "EA SPORTS FC™ 26 traz a emoção do futebol em um pacote completo: partidas intensas, atmosfera de estádio e controle refinado para você jogar do seu jeito. Monte seu time, evolua seu estilo, encare desafios e busque a vitória em modos competitivos e experiências para jogar sozinho ou com amigos. Entre em campo e escreva sua história a cada temporada.",
-    "update": "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/UPDATE/1.09/UP0006-CUSA52342_00-EASPORTSFC2026BG_UPD_00.pkg",
+    "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1617/27132291f4187708f316b43f65ab887a74fdf325f4ece306.png",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/BASE/UP0006-CUSA52342_00-EASPORTSFC2026BG_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.09",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/UPDATE/1.09/UP0006-CUSA52342_00-EASPORTSFC2026BG_UPD_00.pkg"
+        ]
+      }
+    ],
     "dlcs": [
       {
-        "nome": "Full Game Unlock",
-        "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/DLC/UP0006-CUSA52342_00-FULLGAMEUNLOCK00.pkg"
+        "Título ": "Desbloqueio do Jogo Completo",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/DLC/UP0006-CUSA52342_00-FULLGAMEUNLOCK00.pkg"
+        ]
       }
-    ]
+    ],
+    "publisherId": "UP0006",
+    "titleId": "CUSA52342",
+    "contentLabel": "EASPORTSFC2026BG",
+    "contentId": "UP0006-CUSA52342_00-EASPORTSFC2026BG"
   },
   {
-    "nome": "Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto",
-    "cusa": "CUSA06381",
+    "título": "Naruto Shippuden: Ultimate Ninja Storm 4 - Rumo a Boruto",
+    "tagline": "A batalha final de Naruto. O começo de Boruto.",
+    "description": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 Road to Boruto encerra a série Ultimate Ninja Storm com a edição mais completa do STORM 4: reúne o jogo base, os pacotes de DLC e bônus (antes exclusivos) e ainda adiciona a nova aventura “Road to Boruto”, com horas extras de conteúdo focados na nova geração de ninjas. Entre em lutas ninjas rápidas e cinematográficas, com grande variedade de personagens — incluindo Boruto, Sarada, Mitsuki e Sasuke (Shinobi Errante) — e enfrenta novos desafios em cenários como a nova Vila Oculta da Folha.",
+    "gêneros": ["Ação", "Aventura", "Luta"],
     "capa": "https://image.api.playstation.com/cdn/UP0700/CUSA06381_00/leBwhHZ307kxd3oaMKAKRnGRa2TimjcK.png",
-    "background": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/Xefoy4Yf5Cvskx5JPPfWIdhA.png",
-    "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/BASE/UP0700-CUSA06381_00-NARUTOUNS4RTB000_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "Ação, Aventura, Luta",
-    "sinopse": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 Road to Boruto encerra a série Ultimate Ninja Storm com a edição mais completa do STORM 4: reúne o jogo base, os pacotes de DLC e bônus (antes exclusivos) e ainda adiciona a nova aventura \"Road to Boruto\", com horas extras de conteúdo focadas na nova geração de ninjas. Entre em lutas ninjas rápidas e cinematográficas, com grande variedade de personagens — incluindo Boruto, Sarada, Mitsuki e Sasuke (Shinobi Errante) — e enfrente novos desafios em cenários como a nova Vila Oculta da Folha.",
-    "update": "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/UPDATE/1.05/UP0700-CUSA06381_00-NARUTOUNS4RTB000_UPD_00.pkg",
-    "dlcs": []
+    "banner": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/Xefoy4Yf5Cvskx5JPPfWIdhA.png",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/BASE/UP0700-CUSA06381_00-NARUTOUNS4RTB000_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.05",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/UPDATE/1.05/UP0700-CUSA06381_00-NARUTOUNS4RTB000_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": [],
+    "publisherId": "UP0700",
+    "titleId": "CUSA06381",
+    "contentLabel": "NARUTOUNS4RTB000",
+    "contentId": "UP0700-CUSA06381_00-NARUTOUNS4RTB000"
   },
   {
-    "nome": "Far Cry 4",
-    "cusa": "CUSA00462",
+    "título": "Far Cry 4",
+    "tagline": "Kyrat. Beleza selvagem. Guerra sem fim.",
+    "description": "Em Far Cry 4, você chega a Kyrat, uma região deslumbrante, perigosa e indomável no Himalaia, e acaba no centro de uma guerra civil contra o regime do autoproclamado rei Pagan Min. Use um amplo arsenal, veículos e até a fauna local para abrir caminho e construir sua própria história em um mundo aberto imprevisível.",
+    "gêneros": ["Tiro", "Ação", "Aventura"],
     "capa": "https://image.api.playstation.com/cdn/UP0001/CUSA00496_00/zfviJfMx8AXG0BVq9iObe9dUhXzcXfAh.png",
-    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/1223/TPknlBAbAXGaQWcyi6YCKjCS.jpg",
-    "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/BASE/EP0001-CUSA00462_00-FC4GAMEPS4000001_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "USA",
-    "genero": "Tiro, Ação, Aventura",
-    "sinopse": "Em Far Cry 4, você chega a Kyrat, uma região deslumbrante, perigosa e indomável no Himalaia, e acaba no centro de uma guerra civil contra o regime do autoproclamado rei Pagan Min. Use um amplo arsenal, veículos e até a fauna local para abrir caminho e construir sua própria história em um mundo aberto imprevisível.",
-    "update": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/UPDATE/1.08/EP0001-CUSA00462_00-FC4GAMEPS4000001_UPD_00.pkg",
-    "dlcs": []
+    "banner": "https://image.api.playstation.com/vulcan/img/rnd/202010/1223/TPknlBAbAXGaQWcyi6YCKjCS.jpg",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/BASE/EP0001-CUSA00462_00-FC4GAMEPS4000001_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.08",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/UPDATE/1.08/EP0001-CUSA00462_00-FC4GAMEPS4000001_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": [],
+    "publisherId": "EP0001",
+    "titleId": "CUSA00462",
+    "contentLabel": "FC4GAMEPS4000001",
+    "contentId": "EP0001-CUSA00462_00-FC4GAMEPS4000001"
   },
   {
-    "nome": "Red Dead Redemption",
-    "cusa": "CUSA36843",
+    "título": "Red Dead Redemption",
+    "tagline": "Fora da lei até o fim.",
+    "description": "Quando agentes federais ameaçam sua família, o ex-fora da lei John Marston é solicitado a caçar os criminosos que um dia chamou de amigos. Viaje por um vasto mundo que atravessa o Oeste Americano e o México, em uma jornada intensa para enterrar um passado marcado por violência e escolhas difíceis. Esta edição também inclui Undead Nightmare, uma história de terror que transforma o mundo de Red Dead Redemption em uma luta apocalíptica pela sobrevivência contra hordas de zumbis (conteúdo focado em um jogador).",
+    "gêneros": ["Ação"],
     "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1414/10231d67c21c96ffa98c728fc255dd7b8965c12c44e4feec.png",
-    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1414/28668a5e2f1f34295ccb9732e83d512615b05bf567ba7fd5.jpg",
-    "url": "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/BASE/EP1004-CUSA36843_00-REDEMPTION000001_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "Ação",
-    "sinopse": "Quando agentes federais ameaçam sua família, o ex-fora da lei John Marston é forçado a caçar os criminosos que um dia chamou de amigos. Viaje por um vasto mundo que atravessa o Oeste Americano e o México, em uma jornada intensa para enterrar um passado marcado por violência e escolhas difíceis. Esta edição também inclui Undead Nightmare, a história de terror que transforma o mundo de Red Dead Redemption em uma luta apocalíptica pela sobrevivência contra hordas de zumbis (conteúdo focado em um jogador).",
-    "update": "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/UPDATE/1.04/EP1004-CUSA36843_00-REDEMPTION000001_UPD_00.pkg",
-    "dlcs": []
+    "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1414/28668a5e2f1f34295ccb9732e83d512615b05bf567ba7fd5.jpg",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/BASE/EP1004-CUSA36843_00-REDEMPTION000001_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.04",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/UPDATE/1.04/EP1004-CUSA36843_00-REDEMPTION000001_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": [],
+    "publisherId": "EP1004",
+    "titleId": "CUSA36843",
+    "contentLabel": "REDEMPTION000001",
+    "contentId": "EP1004-CUSA36843_00-REDEMPTION000001"
   },
   {
-    "nome": "Red Dead Redemption 2",
-    "cusa": "CUSA03041",
+    "título": "Red Dead Redemption 2",
+    "tagline": "Honra e lealdade no alvorecer dos tempos modernos.",
+    "description": "Em 1899, nos Estados Unidos, Arthur Morgan e a gangue Van der Linde são obrigados a fugir enquanto agentes federais e caçadores de recompensa abrem o cerco. Para sobreviver, o bando precisa roubar, lutar e seguir em frente — mas as explicações internas relacionadas e Arthur passa a encarar um dilema entre seus próprios valores e a liderança ao grupo que o criou. Além do Modo História, o jogo inclui Red Dead Online, um mundo compartilhado onde você construiu sua vida na fronteira: montar acampamento, explorar regiões extremos, caçar, pescar, negociar, recompensas e perseguir novas atividades e seleções adicionais ao longo do tempo.",
+    "gêneros": ["Aventura", "Ação"],
     "capa": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
-    "background": "https://image.api.playstation.com/vulcan/img/rnd/202011/1215/WyHa1BM3ISDVqYSEUMB9VZJs.png",
-    "url": "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/BASE/UP1004-CUSA03041_00-REDEMPTION000002_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "Aventura, Ação",
-    "sinopse": "Em 1899, nos Estados Unidos, Arthur Morgan e a gangue Van der Linde são obrigados a fugir enquanto agentes federais e caçadores de recompensa apertam o cerco. Para sobreviver, o bando precisa roubar, lutar e seguir em frente — mas as tensões internas crescem e Arthur passa a encarar um dilema entre seus próprios valores e a lealdade ao grupo que o criou. Além do Modo História, o jogo inclui Red Dead Online, um mundo compartilhado onde você constrói sua vida na fronteira: montar acampamento, explorar regiões extremas, caçar, pescar, negociar, coletar recompensas e perseguir novas atividades e profissões adicionadas ao longo do tempo.",
-    "update": "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/UPDATE/1.32/UP1004-CUSA03041_00-REDEMPTION000002_UPD_00.pkg",
+    "banner": "https://image.api.playstation.com/vulcan/img/rnd/202011/1215/WyHa1BM3ISDVqYSEUMB9VZJs.png",
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/BASE/UP1004-CUSA03041_00-REDEMPTION000002_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.32",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/UPDATE/1.32/UP1004-CUSA03041_00-REDEMPTION000002_UPD_00.pkg"
+        ]
+      }
+    ],
     "dlcs": [
       {
-        "nome": "Special Edition Content",
-        "url": "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/DLC/UP1004-CUSA03041_00-RDR2SPECEDITION0.pkg"
+        "título": "Bônus de pré-venda",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/DLC/UP1004-CUSA03041_00-RDR2CONTENTPHYS0.pkg"
+        ]
+      },
+      {
+        "título": "Conteúdo da Edição Especial",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/DLC/UP1004-CUSA03041_00-RDR2SPECEDITION0.pkg"
+        ]
       }
-    ]
+    ],
+    "publisherId": "UP1004",
+    "titleId": "CUSA03041",
+    "contentLabel": "REDEMPTION000002",
+    "contentId": "UP1004-CUSA03041_00-REDEMPTION000002"
   },
   {
-    "nome": "Assassin's Creed Unity",
-    "cusa": "CUSA00605",
+    "título": "Assassin's Creed Unity",
+    "tagline": "Faça a Revolução nas sombras de Paris.",
+    "description": "Paris, 1789. Em meio ao caos da Revolução, você acompanha Arno em uma jornada para expor as forças ocultas por trás dos acontecimentos que estão mudando o destino da nação.\n\nCom exploração em uma Paris aberta e detalhada, o jogo permite personalizar seu estilo de assassino com equipamentos e habilidades, além de usar novas armas como a lâmina fantasma. E, para quem gosta de jogar em equipe, há missões cooperativas online para até 4 jogadores (você + 3 amigos).",
+    "gêneros": ["RPG", "Aventura", "Ação"],
     "capa": "https://image.api.playstation.com/cdn/UP0001/CUSA00663_00/arnlFWX6Y6ZlGyCCYWmth94Shtw44kON.png",
-    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/0220/lX4FGJHDVSy8szMS7fRrevmY.jpg",
-    "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/BASE/EP0001-CUSA00605_00-AC5GAMEPS4000001_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "USA",
-    "genero": "RPG, Aventura, Ação",
-    "sinopse": "Paris, 1789. Em meio ao caos da Revolução Francesa, você acompanha Arno em uma jornada para expor as forças ocultas por trás dos acontecimentos que estão mudando o destino da nação. Com exploração em uma Paris aberta e detalhada, o jogo permite personalizar seu estilo de assassino com equipamentos e habilidades, além de usar novas armas como a lâmina fantasma. E, para quem gosta de jogar em equipe, há missões cooperativas online para até 4 jogadores (você + 3 amigos).",
-    "update": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/UPDATE/1.05/EP0001-CUSA00605_00-AC5GAMEPS4000001_UPD_00.pkg",
+    "banner": "https://image.api.playstation.com/vulcan/img/rnd/202010/0220/lX4FGJHDVSy8szMS7fRrevmY.jpg"
+    "base": {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/BASE/EP0001-CUSA00605_00-AC5GAMEPS4000001_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.05",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/UPDATE/1.05/EP0001-CUSA00605_00-AC5GAMEPS4000001_UPD_00.pkg"
+        ]
+      }
+    ],
     "dlcs": [
       {
-        "nome": "Dead Kings",
-        "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/DLC/EP0001-CUSA00605_00-DLCUNDEADKINGS00.pkg"
+        "título": "Reis Mortos",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/DLC/EP0001-CUSA00605_00-DLCUNDEADKINGS00.pkg"
+        ]
+      },
+      {
+        "título": "Armamentos Revolucionários",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/DLC/EP0001-CUSA00605_00-DLCWEAPONPACK000.pkg"
+        ]
+      },
+      {
+        "título": "Segredos da Revolução",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/DLC/EP0001-CUSA00605_00-DLCULCPACK000001.pkg"
+        ]
+      },
+      {
+        "título": "Arsenal Subterrâneo",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/DLC/EP0001-CUSA00605_00-DLCULCPACK000002.pkg"
+        ]
       }
-    ]
+    ],
+    "publisherId": "EP0001",
+    "titleId": "CUSA00605",
+    "contentLabel": "AC5GAMEPS4000001",
+    "contentId": "EP0001-CUSA00605_00-AC5GAMEPS4000001"
   },
   {
-    "nome": "Fallout 4",
-    "cusa": "CUSA03448",
+    "título": "Fallout 4",
+    "tagline": "Bem-vindo(a) ao lar.",
+    "description": "Em Fallout 4, você é o único sobrevivente do Vault 111 e desperta em um mundo limitado a cinzas após uma guerra nuclear. Explore uma vasta região do Commonwealth (com centenas de locais, personagens e missões), escolha alianças ou siga sozinho, e molde o destino das terras devastadas com suas decisões. Além do combate com o clássico suporte do VATS, o jogo traz um forte sistema de criação e criação (armas, armaduras e recursos) e a possibilidade de reconstruir a Wasteland com assentamentos do seu jeito.",
+    "gêneros": ["RPG", "Aventura", "Ação"],
     "capa": "https://image.api.playstation.com/cdn/UP1003/CUSA02557_00/j4PdxSxO3optsrP1SxnAqdq6qCmYPd9x.png",
-    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1013/e4ac1ae706ac97e4508caab5075ff6ae2024e193fe227a35.jpg",
-    "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULLGAME/BASE/UP1003-CUSA03448_00-FALLOUT4FULLGAME_BASE_00.pkg",
-    "tamanho": "N/A",
-    "regiao": "EUR",
-    "genero": "RPG, Aventura, Ação",
-    "sinopse": "Em Fallout 4, você é o único sobrevivente do Vault 111 e desperta em um mundo reduzido a cinzas após uma guerra nuclear. Explore a vasta região do Commonwealth (com centenas de locais, personagens e missões), escolha alianças ou siga sozinho, e molde o destino das terras devastadas com suas decisões. Além do combate com o clássico suporte do V.A.T.S., o jogo traz um forte sistema de criação e personalização (armas, armaduras e recursos) e a possibilidade de reconstruir a Wasteland com assentamentos do seu jeito.",
-    "update": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULLGAME/UPDATE/1.37/UP1003-CUSA03448_00-FALLOUT4FULLGAME_UPD_00.pkg",
+    "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1013/e4ac1ae706ac97e4508caab5075ff6ae2024e193fe227a35.jpg",
+    "base" : {
+      "arquivos": [
+        "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/BASE/UP1003-CUSA03448_00-FALLOUT4FULGLAME_BASE_00.pkg"
+      ]
+    },
+    "atualizações": [
+      {
+        "versão": "1.37",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/UPDATE/1.37/UP1003-CUSA03448_00-FALLOUT4FULGLAME_UPD_00.pkg"
+        ]
+      }
+    ],
     "dlcs": [
       {
-        "nome": "Automatron",
-        "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULLGAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00001.pkg"
+        "título": "Automatron",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00001.pkg"
+        ]
       },
       {
-        "nome": "Wasteland Workshop",
-        "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULLGAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00002.pkg"
+        "título": "Oficina do Terreno Baldio",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00002.pkg"
+        ]
       },
       {
-        "nome": "Far Harbor",
-        "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULLGAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00003.pkg"
+        "título": "Far Harbor",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00003.pkg"
+        ]
       },
       {
-        "nome": "Contraptions Workshop",
-        "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULLGAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00004.pkg"
+        "título": "Oficina de Engenhocas",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00004.pkg"
+        ]
       },
       {
-        "nome": "Vault-Tec Workshop",
-        "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULLGAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00005.pkg"
+        "título": "Oficina Vault-Tec",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00005.pkg"
+        ]
       },
       {
-        "nome": "Nuka-World",
-        "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULLGAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00006.pkg"
+        "título": "Nuka-World",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00006.pkg"
+        ]
       }
-    ]
+    ],
+    "publisherId": "UP1003",
+    "titleId": "CUSA03448",
+    "contentLabel": "FALLOUT4FULLGAME",
+    "contentId": "UP1003-CUSA03448_00-FALLOUT4FULLGAME"
   }
 ]
