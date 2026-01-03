@@ -753,7 +753,7 @@
       }
     ]
   }
-},
+],
   {
     "nome": "Dias Passados",
     "cusa": "CUSA09175",
@@ -1132,5 +1132,357 @@
       }
     ]
   }
+],
+  {
+    "nome": "Star Wars Jedi: Sobrevivente",
+    "cusa": "CUSA33778",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1016/47becbe467e18575f71429abbaec9af707865744b825f34d.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2814/24a5bc14faa8f69c74a9a8d7b729509841a1c9046bc9a7f3.png",
+    "url": [
+      "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/BASE/UP0006-CUSA33778_00-APPLEJACKGAME000_BASE_00.pkg"
+    ],
+    "tamanho": "",
+    "regiao": "",
+    "genero": "Ação",
+    "sinopse": "Cinco anos após os eventos de STAR WARS Jedi: Fallen Order, Cal Kestis segue em fuga e cada vez mais restrito pela perseguição implacável do Império.",
+    "update": [
+      {
+        "versão": "1.03",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/UPDATE/1.03/UP0006-CUSA33778_00-APPLEJACKGAME000_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "nome": "Marvel's Spider-Man: Edição Jogo do Ano",
+    "cusa": "CUSA02299",
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/Cu9fyu6DM41JPekXLf1neF9r.png",
+    "url": [
+      "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/BASE/UP9000-CUSA02299_00-MARVELSSPIDERMAN_BASE_00.pkg"
+    ],
+    "tamanho": "",
+    "regiao": "",
+    "genero": "Ação",
+    "sinopse": "Viva a versão completa de Marvel's Spider-Man com um Peter Parker mais experiência, enfrentando grandes sofrimentos enquanto tenta equilibrar vida pessoal e carreira.",
+    "update": [
+      {
+        "versão": "1.19",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/UPDATE/1.19/UP9000-CUSA02299_00-MARVELSSPIDERMAN_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": [
+      {
+        "nome": "O Assalto",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-000000000000DLC1-A0000-V0100.pkg"
+        ]
+      },
+      {
+        "nome": "Guerras Territoriais",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-000000000000DLC2-A0000-V0100.pkg"
+        ]
+      },
+      {
+        "nome": "Lado Bom",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-000000000000DLC3-A0000-V0100.pkg"
+        ]
+      },
+      {
+        "nome": "Bônus de pré-venda",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-00000000PREORDER-A0000-V0100.pkg"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Homem-Aranha da Marvel: Miles Morales",
+    "cusa": "CUSA17722",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/2417/tnCutdREPv6Pa7atqb8MTxGW.png",
+    "url": [
+      "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/BASE/UP9000-CUSA17722_00-MARVELSSMMORALES_BASE.pkg"
+    ],
+    "tamanho": "",
+    "regiao": "",
+    "genero": "Ação",
+    "sinopse": "Na mais nova aventura do universo de Marvel's Spider-Man, Miles Morales tenta se adaptar ao novo lar enquanto segue os passos de Peter Parker para assumir seu lugar como o novo Spider-Man.",
+    "update": [
+      {
+        "versão": "1.14",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/UPDATE/1.14/UP9000-CUSA17722_00-MARVELSSMMORALES_UPD.pkg"
+        ]
+      }
+    ],
+    "dlcs": [
+      {
+        "nome": "Dispositivo de Poço Gravitacional",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTGRAVITYWELL00.pkg"
+        ]
+      },
+      {
+        "nome": "Três Pontos de Habilidade",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTPLUSTHREEPTSX.pkg"
+        ]
+      },
+      {
+        "nome": "Traje do Homem-Aranha: No Aranhaverso",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTSPIDVERSESUIT.pkg"
+        ]
+      },
+      {
+        "nome": "Agasalho Esportivo",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTTRACKSUIT0000.pkg"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "EA Sports FC 26",
+    "cusa": "CUSA52342",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1617/2e757ffb0a6bb4b91af84db64e0183d725e56e5354f45eba.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1617/27132291f4187708f316b43f65ab887a74fdf325f4ece306.png",
+    "url": [
+      "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/BASE/UP0006-CUSA52342_00-EASPORTSFC2026BG_BASE_00.pkg"
+    ],
+    "tamanho": "",
+    "regiao": "",
+    "genero": "Esporte",
+    "sinopse": "EA SPORTS FC™ 26 traz a emoção do futebol em um pacote completo: partidas intensas, atmosfera de estádio e controle refinado para você jogar do seu jeito.",
+    "update": [
+      {
+        "versão": "1.13",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/UPDATE/1.13/UP0006-CUSA52342_00-EASPORTSFC2026BG_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": [
+      {
+        "nome": "Desbloqueio do Jogo Completo",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/DLC/UP0006-CUSA52342_00-FULLGAMEUNLOCK00.pkg"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Naruto Shippuden: Ultimate Ninja Storm 4 - Rumo a Boruto",
+    "cusa": "CUSA06381",
+    "capa": "https://image.api.playstation.com/cdn/UP0700/CUSA06381_00/leBwhHZ307kxd3oaMKAKRnGRa2TimjcK.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/Xefoy4Yf5Cvskx5JPPfWIdhA.png",
+    "url": [
+      "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/BASE/UP0700-CUSA06381_00-NARUTOUNS4RTB000_BASE_00.pkg"
+    ],
+    "tamanho": "",
+    "regiao": "",
+    "genero": "Ação, Aventura, Luta",
+    "sinopse": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 Road to Boruto encerra a série Ultimate Ninja Storm com a edição mais completa do STORM 4.",
+    "update": [
+      {
+        "versão": "1.05",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/UPDATE/1.05/UP0700-CUSA06381_00-NARUTOUNS4RTB000_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "nome": "Far Cry 4",
+    "cusa": "CUSA00462",
+    "capa": "https://image.api.playstation.com/cdn/UP0001/CUSA00496_00/zfviJfMx8AXG0BVq9iObe9dUhXzcXfAh.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/1223/TPknlBAbAXGaQWcyi6YCKjCS.jpg",
+    "url": [
+      "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/BASE/EP0001-CUSA00462_00-FC4GAMEPS4000001_BASE_00.pkg"
+    ],
+    "tamanho": "",
+    "regiao": "",
+    "genero": "Tiro, Ação, Aventura",
+    "sinopse": "Em Far Cry 4, você chega a Kyrat, uma região deslumbrante, perigosa e indomável no Himalaia, e acaba no centro de uma guerra civil.",
+    "update": [
+      {
+        "versão": "1.08",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/UPDATE/1.08/EP0001-CUSA00462_00-FC4GAMEPS4000001_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "nome": "Red Dead Redemption",
+    "cusa": "CUSA36843",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1414/10231d67c21c96ffa98c728fc255dd7b8965c12c44e4feec.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1414/28668a5e2f1f34295ccb9732e83d512615b05bf567ba7fd5.jpg",
+    "url": [
+      "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/BASE/EP1004-CUSA36843_00-REDEMPTION000001_BASE_00.pkg"
+    ],
+    "tamanho": "",
+    "regiao": "",
+    "genero": "Ação",
+    "sinopse": "Quando agentes federais ameaçam sua família, o ex-fora da lei John Marston é solicitado a caçar os criminosos que um dia chamou de amigos.",
+    "update": [
+      {
+        "versão": "1.04",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/UPDATE/1.04/EP1004-CUSA36843_00-REDEMPTION000001_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "nome": "Red Dead Redemption 2",
+    "cusa": "CUSA03041",
+    "capa": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202011/1215/WyHa1BM3ISDVqYSEUMB9VZJs.png",
+    "url": [
+      "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/BASE/UP1004-CUSA03041_00-REDEMPTION000002_BASE_00.pkg"
+    ],
+    "tamanho": "",
+    "regiao": "",
+    "genero": "Aventura, Ação",
+    "sinopse": "Em 1899, nos Estados Unidos, Arthur Morgan e a gangue Van der Linde são obrigados a fugir enquanto agentes federais e caçadores de recompensa abrem o cerco.",
+    "update": [
+      {
+        "versão": "1.32",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/UPDATE/1.32/UP1004-CUSA03041_00-REDEMPTION000002_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": [
+      {
+        "nome": "Bônus de pré-venda",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/DLC/UP1004-CUSA03041_00-RDR2CONTENTPHYS0.pkg"
+        ]
+      },
+      {
+        "nome": "Conteúdo da Edição Especial",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/DLC/UP1004-CUSA03041_00-RDR2SPECEDITION0.pkg"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Assassin's Creed Unity",
+    "cusa": "CUSA00605",
+    "capa": "https://image.api.playstation.com/cdn/UP0001/CUSA00663_00/arnlFWX6Y6ZlGyCCYWmth94Shtw44kON.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/0220/lX4FGJHDVSy8szMS7fRrevmY.jpg",
+    "url": [
+      "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/BASE/EP0001-CUSA00605_00-AC5GAMEPS4000001_BASE_00.pkg"
+    ],
+    "tamanho": "",
+    "regiao": "",
+    "genero": "RPG, Aventura, Ação",
+    "sinopse": "Paris, 1789. Em meio ao caos da Revolução, você acompanha Arno em uma jornada para expor as forças ocultas por trás dos acontecimentos que estão mudando o destino da nação.",
+    "update": [
+      {
+        "versão": "1.05",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/UPDATE/1.05/EP0001-CUSA00605_00-AC5GAMEPS4000001_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": [
+      {
+        "nome": "Reis Mortos",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/DLC/EP0001-CUSA00605_00-DLCUNDEADKINGS00.pkg"
+        ]
+      },
+      {
+        "nome": "Armamentos Revolucionários",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/DLC/EP0001-CUSA00605_00-DLCWEAPONPACK000.pkg"
+        ]
+      },
+      {
+        "nome": "Segredos da Revolução",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/DLC/EP0001-CUSA00605_00-DLCULCPACK000001.pkg"
+        ]
+      },
+      {
+        "nome": "Arsenal Subterrâneo",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/DLC/EP0001-CUSA00605_00-DLCULCPACK000002.pkg"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Fallout 4",
+    "cusa": "CUSA03448",
+    "capa": "https://image.api.playstation.com/cdn/UP1003/CUSA02557_00/j4PdxSxO3optsrP1SxnAqdq6qCmYPd9x.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1013/e4ac1ae706ac97e4508caab5075ff6ae2024e193fe227a35.jpg",
+    "url": [
+      "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/BASE/UP1003-CUSA03448_00-FALLOUT4FULGLAME_BASE_00.pkg"
+    ],
+    "tamanho": "",
+    "regiao": "",
+    "genero": "RPG, Aventura, Ação",
+    "sinopse": "Em Fallout 4, você é o único sobrevivente do Vault 111 e desperta em um mundo limitado a cinzas após uma guerra nuclear.",
+    "update": [
+      {
+        "versão": "1.37",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/UPDATE/1.37/UP1003-CUSA03448_00-FALLOUT4FULGLAME_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": [
+      {
+        "nome": "Automatron",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00001.pkg"
+        ]
+      },
+      {
+        "nome": "Oficina do Terreno Baldio",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00002.pkg"
+        ]
+      },
+      {
+        "nome": "Far Harbor",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00003.pkg"
+        ]
+      },
+      {
+        "nome": "Oficina de Engenhocas",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00004.pkg"
+        ]
+      },
+      {
+        "nome": "Oficina Vault-Tec",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00005.pkg"
+        ]
+      },
+      {
+        "nome": "Nuka-World",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00006.pkg"
+        ]
+      }
+    ]
+  }
 ]
-
