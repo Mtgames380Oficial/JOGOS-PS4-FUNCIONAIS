@@ -34,7 +34,7 @@
     "tamanho": "[COMPLETAR]",
     "regiao": "[COMPLETAR]",
     "genero": "RPG",
-    "sinopse": "Conheça a experiência expandida de Ghost of Tsushima na Versão do Diretor, com todo o conteúdo adicional lançado até hoje. Explore Tsushima em um jogo de ação e aventura em mundo aberto, desafiando inimigos de perto com uma katana, dominando o arco para eliminar ameaças à distância e usando furtividade para emboscar oponentes.",
+    "sinopse": "Conheça a experiência expandida de Ghost of Tsushima na Versão do Diretor, com todo o conteúdo adicional lançado até hoje. Explore Tsushima em um jogo de ação e aventura em mundo aberto.",
     "update": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/UPDATE/2.24/UP9000-CUSA11456_00-GHOSTSHIP0000000_UPD_00.pkg",
     "dlcs": [
       {
@@ -48,6 +48,30 @@
       {
         "nome": "Melhor Recuperação da Saúde",
         "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTHEALTHRECOV.pkg"
+      },
+      {
+        "nome": "Selim Especial",
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTHORSESADDLE.pkg"
+      },
+      {
+        "nome": "Cavalo Especial",
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTHORSESKIN00.pkg"
+      },
+      {
+        "nome": "Lendas (Desbloquear)",
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTLEGENDSMODE.pkg"
+      },
+      {
+        "nome": "Máscara Dourada",
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTMASKSKIN000.pkg"
+      },
+      {
+        "nome": "Espada Especial",
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTSWORDSKIN00.pkg"
+      },
+      {
+        "nome": "Ponto Técnico Extra",
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/DLC/UP9000-CUSA11456_00-GHOSTTECHNIQUEPT.pkg"
       }
     ]
   },
@@ -60,8 +84,442 @@
     "tamanho": "[COMPLETAR]",
     "regiao": "[COMPLETAR]",
     "genero": "Ação, Aventura",
-    "sinopse": "Em Sekiro: Shadows Die Twice, você é o \"lobo de um braço só\", um guerreiro desonrado e desfigurado, resgatado da beira da morte. Comprometido a proteger um jovem senhor descendente de uma antiga linhagem, você se torna alvo de muitos inimigos cruéis.",
+    "sinopse": "Em Sekiro: Shadows Die Twice, você é o \"lobo de um braço só\", um guerreiro desonrado e desfigurado, resgatado da beira da morte. Comprometido a proteger um jovem senhor descendente de uma antiga linhagem.",
     "update": "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/UPDATE/1.06/UP0002-CUSA12047_00-SEKIROGAME000001_UPD_00.pkg",
     "dlcs": []
+  },
+  {
+    "nome": "O Legado de Hogwarts",
+    "cusa": "CUSA12824",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/4ddb6640a270d7a6e022a044102253fa9bbe48233e1ad577.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/BASE/UP1018-CUSA12824_00-HOGWARTSLEGACY01_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "RPG, Ação, Aventura, Fantasia, Mundo aberto",
+    "sinopse": "Hogwarts Legacy é um RPG de ação imersivo e de mundo aberto no universo apresentado nos livros de Harry Potter. Você vive Hogwarts na década de 1800, explora locais novos e familiares e decide o destino do mundo bruxo.",
+    "update": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/UPDATE/1.05/UP1018-CUSA12824_00-HOGWARTSLEGACY01_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Montagem de Hipogrifo de Ônix",
+        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-PREO01ALLP00R0HD.pkg"
+      },
+      {
+        "nome": "Chapéu de Astrônomo",
+        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-PREO02AMZN00R0VO.pkg"
+      },
+      {
+        "nome": "Receita da Poção Felix Felicis",
+        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/DLC/UP1018-CUSA12824_00-PREO03SONY00P0HD.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Deus da Guerra",
+    "cusa": "CUSA07408",
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/KAmUQWQ5V9QF3XDzmty1VkKj.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/BASE/UP9000-CUSA07408_00-00000000GODOFWAR_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Ação, Aventura",
+    "sinopse": "Em uma nova fase de sua vida, Kratos deixa para trás a era dos deuses do Olimpo e tenta sobreviver em um mundo nórdico hostil, repleto de criaturas, monstros e criaturas.",
+    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/UPDATE/1.35/UP9000-CUSA07408_00-00000000GODOFWAR_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Broqueteiro da Forja",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00010000000000.pkg"
+      },
+      {
+        "nome": "Escudo da Alma Élfica Brilhante",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/DLC/UP9000-CUSA07408_00-PO00020000000000.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Deus da Guerra Ragnarök",
+    "cusa": "CUSA34384",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1117/hguxDixf0FzALJnXNCc10Tdo.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2016/1f4bf1ee42276b3841e71ebb812510493ce78bfc307d3296.jpg?w=1920",
+    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/BASE/UP9000-CUSA34384_00-GOWRAGNAROK00000_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Ação, Aventura",
+    "sinopse": "Kratos e Atreus devem viajar pelos Nove Reinos em busca de respostas enquanto as forças asgardianas se preparam para uma batalha profetizada que causará o fim do mundo.",
+    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/UPDATE/6.05/UP9000-CUSA34384_00-GOWRAGNAROK00000_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Edição Digital Deluxe",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/DLC/UP9000-CUSA34384_00-GOWRAGNAROKDDE00.pkg"
+      },
+      {
+        "nome": "Itens da Edição de Lançamento",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/DLC/UP9000-CUSA34384_00-GOWRAGNAROKPREOR.pkg"
+      },
+      {
+        "nome": "Valhalla",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/DLC/UP9000-CUSA34384_00-GOWRDLCCONTENT00.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Resident Evil 4: Remake",
+    "cusa": "CUSA33387",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0712/PjIoeaMt833otj5HukAWGfui.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/BASE/UP0102-CUSA33387_00-RE4RMAINGAME0000_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Terror, Ação, Aventura",
+    "sinopse": "Seis anos após o desastre biológico em Raccoon City, Leon S. Kennedy é enviado para resgatar a filha sequestrada do presidente dos EUA. A missão o leva a uma vila europeia isolada.",
+    "update": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/UPDATE/1.11/UP0102-CUSA33387_00-RE4RMAINGAME0000_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Caminhos Separados",
+        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000001.pkg"
+      },
+      {
+        "nome": "Mapa do Tesouro: Expansão",
+        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/DLC/UP0102-CUSA33387_00-RE4RDLC000000002.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "The Last of Us Part II",
+    "cusa": "CUSA07820",
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/UIRjzDjQKrOD4kx6ubmlOsrA.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/BASE/UP9000-CUSA07820_00-THELASTOFUSPART2_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Ação, Aventura",
+    "sinopse": "Cinco anos após uma jornada pelos Estados Unidos em um cenário pós-pandêmico, Ellie e Joel se estabelecem em Jackson, Wyoming, tentando construir uma vida com alguma paz.",
+    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/UPDATE/1.09/UP9000-CUSA07820_00-THELASTOFUSPART2_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Pacote Bônus de The Last of Us Part II",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/DLC/UP9000-CUSA07820_00-T2PREO0000000000-A0000-V0100-DIURYDUARTE.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Guerra Mundial Z",
+    "cusa": "CUSA14046",
+    "capa": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202009/2808/9BLGIeD8OgI8cCbOEDbYjdnw.jpg?w=1920&thumb=false",
+    "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/BASE/UP2746-CUSA14046_00-WWZTHEGAME201800_BASE_0.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Ação, Tiro",
+    "sinopse": "A humanidade está à beira da extinção. De Nova York a Moscou e Jerusalém, o apocalipse zumbi continua a se espalhar.",
+    "update": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Pacote de Armas Defensores do Deserto",
+        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCDESERT0000000.pkg"
+      },
+      {
+        "nome": "Pacote de Skins de Armas Flor Dourada",
+        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/DLC/UP2746-CUSA14046_00-DLCGOLDENBLOOM00.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Dias Passados",
+    "cusa": "CUSA09175",
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202011/1204/wYL4v2r8uMQFvVTJlfuj8ICk.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202011/1118/sQPqzvzBsYoCq5MEkAc7v1Rs.jpg",
+    "url": "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/BASE/EP9000-CUSA09175_00-DAYSGONECOMPLETE_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Terror, Aventura, Ação",
+    "sinopse": "Days Gone é um jogo de ação e aventura em mundo aberto ambientado dois anos após uma pandemia global devastadora.",
+    "update": "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/UPDATE/1.84/EP9000-CUSA09175_00-DAYSGONECOMPLETE_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Bônus de pré-venda",
+        "url": "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/DLC/EP9000-CUSA09175_00-DAYSGONEPREBONUS.pkg"
+      },
+      {
+        "nome": "Skins de Bicicleta / Desbloqueio Antecipado da Habilidade Chave Inglesa",
+        "url": "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/DLC/EP9000-CUSA09175_00-DAYSGONECEBONUS1.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Call of Duty: Modern Warfare III",
+    "cusa": "CUSA23827",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1415/8d9af953f938ba6cb9f9e73cd94424df2d33b0f313794739.png",
+    "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/BASE/UP0002 -CUSA23827_00-COREGAME00000001.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Ação, Tiro",
+    "sinopse": "Nesta sequência direta do recordista Call of Duty®: Modern Warfare® II, o Capitão Price e a Força-tarefa 141 voltam ao centro do conflito diante de uma ameaça que eleva a guerra a outro patamar.",
+    "update": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Pacote de Campanha 1",
+        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_00.pkg"
+      },
+      {
+        "nome": "Pacote de Campanha 2",
+        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_00.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Call of Duty: Vanguard",
+    "cusa": "CUSA24041",
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202109/2218/JelPN9rNJfDtoQJTwDsa0deG.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202108/2318/laMdtTUhSHB2neSymEjIt5oF.jpg",
+    "url": "http://cdn.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/BASE/UP0002-CUSA24041_00-CODVTHEGAME00001_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Tiro",
+    "sinopse": "Call of Duty: Vanguard leva você às batalhas fundamentais da Segunda Guerra Mundial em múltiplos teatros de guerra.",
+    "update": "http://cdn.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/UPDATE/1.26/UP0002-CUSA24041_00-CODVTHEGAME00001_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Base de Campanha",
+        "url": "http://cdn.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/DLC/UP0002-CUSA24041_00-CODVCONTENT00001.pkg"
+      },
+      {
+        "nome": "Campanha 1",
+        "url": "http://cdn.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/DLC/UP0002-CUSA24041_00-CODVCONTENT00002.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Cyberpunk 2077",
+    "cusa": "CUSA16596",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0511/fb9ce1671c6a36fdf1e6548ab8947940f1fc2a1c873ae83d.jpg",
+    "url": "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/BASE/UP4497-CUSA16596_00-0000000000000004_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Ação, Aventura, RPG",
+    "sinopse": "Cyberpunk 2077 é um RPG de ação e aventura em mundo aberto ambientado em Night City, uma megalópole obcecada por poder, glamour e modificações corporais.",
+    "update": "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/UPDATE/1.61/UP4497-CUSA16596_00-0000000000000004_UPD_00.pkg",
+    "dlcs": []
+  },
+  {
+    "nome": "Horizon Zero Dawn: Edição Completa",
+    "cusa": "CUSA10237",
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202011/1018/9erXiwu0ozgKGPIUVTuy2siN.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202009/2923/LyLrdlIfqiVzvynWJGtNfbU8.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/BASE/UP9000-CUSA10237_00-HRZCE00000000000_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "RPG, Ação",
+    "sinopse": "Assuma o papel de Aloy, uma caçadora habilidosa, e explore um mundo aberto exuberante - e ao mesmo tempo pós-apocalíptico - dominado por máquinas misteriosas.",
+    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/UPDATE/1.54/UP9000-CUSA10237_00-HRZCE00000000000_UPD_00.pkg",
+    "dlcs": []
+  },
+  {
+    "nome": "LEGO Star Wars: A Saga Skywalker",
+    "cusa": "CUSA13794",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/huLsTFyulvj2fC0nbRaVUChw.png",
+    "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Ação",
+    "sinopse": "Construa a sua própria história.",
+    "update": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/UPDATE/1.09/UP1018-CUSA13794_00-LEGOSWTSS0000000_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Pacote Livro de Boba Fett",
+        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Book%20of%20Boba%20Fett%20Pack/UP1018-CUSA13794_00-BOBAFETTPACK0001.pkg"
+      },
+      {
+        "nome": "Obi-Wan Kenobi Clássico",
+        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Classic%20Obi-Wan%20Kenobi/UP1018-CUSA13794_00-OBIWANPACK000001.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Star Wars Jedi: Sobrevivente",
+    "cusa": "CUSA33778",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1016/47becbe467e18575f71429abbaec9af707865744b825f34d.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2814/24a5bc14faa8f69c74a9a8d7b729509841a1c9046bc9a7f3.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/BASE/UP0006-CUSA33778_00-APPLEJACKGAME000_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Ação",
+    "sinopse": "Cinco anos após os eventos de STAR WARS Jedi: Fallen Order, Cal Kestis segue em fuga e cada vez mais restrito pela perseguição implacável do Império.",
+    "update": "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/UPDATE/1.03/UP0006-CUSA33778_00-APPLEJACKGAME000_UPD_00.pkg",
+    "dlcs": []
+  },
+  {
+    "nome": "Marvel's Spider-Man: Edição Jogo do Ano",
+    "cusa": "CUSA02299",
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/Cu9fyu6DM41JPekXLf1neF9r.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/BASE/UP9000-CUSA02299_00-MARVELSSPIDERMAN_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Ação",
+    "sinopse": "Viva a versão completa de Marvel's Spider-Man com um Peter Parker mais experiência, enfrentando grandes sofrimentos enquanto tenta equilibrar vida pessoal e carreira.",
+    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/UPDATE/1.19/UP9000-CUSA02299_00-MARVELSSPIDERMAN_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "O Assalto",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-000000000000DLC1-A0000-V0100.pkg"
+      },
+      {
+        "nome": "Guerras Territoriais",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/DLC/UP9000-CUSA02299_00-000000000000DLC2-A0000-V0100.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Homem-Aranha da Marvel: Miles Morales",
+    "cusa": "CUSA17722",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/2417/tnCutdREPv6Pa7atqb8MTxGW.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/BASE/UP9000-CUSA17722_00-MARVELSSMMORALES_BASE.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Ação",
+    "sinopse": "Na mais nova aventura do universo de Marvel's Spider-Man, Miles Morales tenta se adaptar ao novo lar enquanto segue os passos de Peter Parker para assumir seu lugar como o novo Spider-Man.",
+    "update": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/UPDATE/1.14/UP9000-CUSA17722_00-MARVELSSMMORALES_UPD.pkg",
+    "dlcs": [
+      {
+        "nome": "Dispositivo de Poço Gravitacional",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTGRAVITYWELL00.pkg"
+      },
+      {
+        "nome": "Três Pontos de Habilidade",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/DLC/UP9000-CUSA17722_00-ENTPLUSTHREEPTSX.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "EA Sports FC 26",
+    "cusa": "CUSA52342",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1617/2e757ffb0a6bb4b91af84db64e0183d725e56e5354f45eba.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1617/27132291f4187708f316b43f65ab887a74fdf325f4ece306.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/BASE/UP0006-CUSA52342_00-EASPORTSFC2026BG_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Esporte",
+    "sinopse": "EA SPORTS FC™ 26 traz a emoção do futebol em um pacote completo: partidas intensas, atmosfera de estádio e controle refinado para você jogar do seu jeito.",
+    "update": "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/UPDATE/1.13/UP0006-CUSA52342_00-EASPORTSFC2026BG_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Desbloqueio do Jogo Completo",
+        "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/DLC/UP0006-CUSA52342_00-FULLGAMEUNLOCK00.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Naruto Shippuden: Ultimate Ninja Storm 4 - Rumo a Boruto",
+    "cusa": "CUSA06381",
+    "capa": "https://image.api.playstation.com/cdn/UP0700/CUSA06381_00/leBwhHZ307kxd3oaMKAKRnGRa2TimjcK.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/Xefoy4Yf5Cvskx5JPPfWIdhA.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/BASE/UP0700-CUSA06381_00-NARUTOUNS4RTB000_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Ação, Aventura, Luta",
+    "sinopse": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 Road to Boruto encerra a série Ultimate Ninja Storm com a edição mais completa do STORM 4.",
+    "update": "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/UPDATE/1.05/UP0700-CUSA06381_00-NARUTOUNS4RTB000_UPD_00.pkg",
+    "dlcs": []
+  },
+  {
+    "nome": "Far Cry 4",
+    "cusa": "CUSA00462",
+    "capa": "https://image.api.playstation.com/cdn/UP0001/CUSA00496_00/zfviJfMx8AXG0BVq9iObe9dUhXzcXfAh.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/1223/TPknlBAbAXGaQWcyi6YCKjCS.jpg",
+    "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/BASE/EP0001-CUSA00462_00-FC4GAMEPS4000001_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Tiro, Ação, Aventura",
+    "sinopse": "Em Far Cry 4, você chega a Kyrat, uma região deslumbrante, perigosa e indomável no Himalaia, e acaba no centro de uma guerra civil.",
+    "update": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/UPDATE/1.08/EP0001-CUSA00462_00-FC4GAMEPS4000001_UPD_00.pkg",
+    "dlcs": []
+  },
+  {
+    "nome": "Red Dead Redemption",
+    "cusa": "CUSA36843",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1414/10231d67c21c96ffa98c728fc255dd7b8965c12c44e4feec.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1414/28668a5e2f1f34295ccb9732e83d512615b05bf567ba7fd5.jpg",
+    "url": "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/BASE/EP1004-CUSA36843_00-REDEMPTION000001_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Ação",
+    "sinopse": "Quando agentes federais ameaçam sua família, o ex-fora da lei John Marston é solicitado a caçar os criminosos que um dia chamou de amigos.",
+    "update": "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/UPDATE/1.04/EP1004-CUSA36843_00-REDEMPTION000001_UPD_00.pkg",
+    "dlcs": []
+  },
+  {
+    "nome": "Red Dead Redemption 2",
+    "cusa": "CUSA03041",
+    "capa": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202011/1215/WyHa1BM3ISDVqYSEUMB9VZJs.png",
+    "url": "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/BASE/UP1004-CUSA03041_00-REDEMPTION000002_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "Aventura, Ação",
+    "sinopse": "Em 1899, nos Estados Unidos, Arthur Morgan e a gangue Van der Linde são obrigados a fugir enquanto agentes federais e caçadores de recompensa abrem o cerco.",
+    "update": "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/UPDATE/1.32/UP1004-CUSA03041_00-REDEMPTION000002_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Bônus de pré-venda",
+        "url": "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/DLC/UP1004-CUSA03041_00-RDR2CONTENTPHYS0.pkg"
+      },
+      {
+        "nome": "Conteúdo da Edição Especial",
+        "url": "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/DLC/UP1004-CUSA03041_00-RDR2SPECEDITION0.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Assassin's Creed Unity",
+    "cusa": "CUSA00605",
+    "capa": "https://image.api.playstation.com/cdn/UP0001/CUSA00663_00/arnlFWX6Y6ZlGyCCYWmth94Shtw44kON.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202010/0220/lX4FGJHDVSy8szMS7fRrevmY.jpg",
+    "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/BASE/EP0001-CUSA00605_00-AC5GAMEPS4000001_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "RPG, Aventura, Ação",
+    "sinopse": "Paris, 1789. Em meio ao caos da Revolução, você acompanha Arno em uma jornada para expor as forças ocultas por trás dos acontecimentos que estão mudando o destino da nação.",
+    "update": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/UPDATE/1.05/EP0001-CUSA00605_00-AC5GAMEPS4000001_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Reis Mortos",
+        "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/DLC/EP0001-CUSA00605_00-DLCUNDEADKINGS00.pkg"
+      },
+      {
+        "nome": "Armamentos Revolucionários",
+        "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/DLC/EP0001-CUSA00605_00-DLCWEAPONPACK000.pkg"
+      }
+    ]
+  },
+  {
+    "nome": "Fallout 4",
+    "cusa": "CUSA03448",
+    "capa": "https://image.api.playstation.com/cdn/UP1003/CUSA02557_00/j4PdxSxO3optsrP1SxnAqdq6qCmYPd9x.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1013/e4ac1ae706ac97e4508caab5075ff6ae2024e193fe227a35.jpg",
+    "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/BASE/UP1003-CUSA03448_00-FALLOUT4FULGLAME_BASE_00.pkg",
+    "tamanho": "[COMPLETAR]",
+    "regiao": "[COMPLETAR]",
+    "genero": "RPG, Aventura, Ação",
+    "sinopse": "Em Fallout 4, você é o único sobrevivente do Vault 111 e desperta em um mundo limitado a cinzas após uma guerra nuclear.",
+    "update": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/UPDATE/1.37/UP1003-CUSA03448_00-FALLOUT4FULGLAME_UPD_00.pkg",
+    "dlcs": [
+      {
+        "nome": "Automatron",
+        "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00001.pkg"
+      },
+      {
+        "nome": "Oficina do Terreno Baldio",
+        "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00002.pkg"
+      },
+      {
+        "nome": "Far Harbor",
+        "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/DLC/UP1003-CUSA03448_00-FALLOUT4DLC00003.pkg"
+      }
+    ]
   }
 ]
