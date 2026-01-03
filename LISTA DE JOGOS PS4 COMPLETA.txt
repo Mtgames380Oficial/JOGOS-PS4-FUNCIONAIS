@@ -754,3 +754,383 @@
     ]
   }
 ]
+,
+  {
+    "nome": "Dias Passados",
+    "cusa": "CUSA09175",
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202011/1204/wYL4v2r8uMQFvVTJlfuj8ICk.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202011/1118/sQPqzvzBsYoCq5MEkAc7v1Rs.jpg",
+    "url": [
+      "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/BASE/EP9000-CUSA09175_00-DAYSGONECOMPLETE_BASE_00.pkg"
+    ],
+    "tamanho": "",
+    "regiao": "",
+    "genero": "Terror, Aventura, Ação",
+    "sinopse": "Days Gone é um jogo de ação e aventura em mundo aberto ambientado dois anos após uma pandemia global devastadora.",
+    "update": [
+      {
+        "versão": "1.84",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/UPDATE/1.84/EP9000-CUSA09175_00-DAYSGONECOMPLETE_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": [
+      {
+        "nome": "Bônus de pré-venda",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/DLC/EP9000-CUSA09175_00-DAYSGONEPREBONUS.pkg"
+        ]
+      },
+      {
+        "nome": "Skins de Bicicleta / Desbloqueio Antecipado da Habilidade Chave Inglesa",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/DLC/EP9000-CUSA09175_00-DAYSGONECEBONUS1.pkg"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Call of Duty: Modern Warfare III",
+    "cusa": "CUSA23827",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1415/8d9af953f938ba6cb9f9e73cd94424df2d33b0f313794739.png",
+    "url": [
+      "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/BASE/UP0002 -CUSA23827_00-COREGAME00000001.pkg"
+    ],
+    "tamanho": "",
+    "regiao": "",
+    "genero": "Ação, Tiro",
+    "sinopse": "Nesta sequência direta do recordista Call of Duty®: Modern Warfare® II, o Capitão Price e a Força-tarefa 141 voltam ao centro do conflito diante de uma ameaça que eleva a guerra a outro patamar.",
+    "update": [
+      {
+        "versão": "1.33",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_00.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_01.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_02.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_03.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_04.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_05.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_06.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_07.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_08.pkg",
+          "http://files.duskaryon.pp.ua/UP0002- CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_09.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_10.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_11.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_12.pkg"
+        ]
+      }
+    ],
+    "dlcs": [
+      {
+        "nome": "Pacote de Campanha 1",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_00.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_01.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_02.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_03.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_04.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_05.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_06.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_07.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_08.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%201/UP0002-CUSA23827_00-CODMW3CONTENT001_DLC_09.pkg"
+        ]
+      },
+      {
+        "nome": "Pacote de Campanha 2",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_00.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_01.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_02.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_03.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_04.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_05.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_06.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_07.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_08.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Campaign%20Pack%202/UP0002-CUSA23827_00-CODMW3CONTENT002_DLC_09.pkg"
+        ]
+      },
+      {
+        "nome": "Esboço de Jogo 01",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Game%20Stub%2001/UP0002-CUSA23827_00-CODMW3STUB000001.pkg"
+        ]
+      },
+      {
+        "nome": "Esboço de Jogo 02",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Game%20Stub%2002/UP0002-CUSA23827_00-CODMW3STUB000002.pkg"
+        ]
+      },
+      {
+        "nome": "Esboço de Jogo 03",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Game%20Stub%2003/UP0002-CUSA23827_00-CODMW3STUB000003.pkg"
+        ]
+      },
+      {
+        "nome": "Esboço de Jogo 04",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Game%20Stub%2004/UP0002-CUSA23827_00-CODMW3STUB000004.pkg"
+        ]
+      },
+      {
+        "nome": "Esboço de Jogo 05",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Game%20Stub%2005/UP0002-CUSA23827_00-CODMW3STUB000005.pkg"
+        ]
+      },
+      {
+        "nome": "Pacote Multijogador",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_00.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_01.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_02.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_03.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_04.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_05.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_06.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_07.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_08.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_09.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_10.pkg",
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/Multiplayer%20Pack/UP0002-CUSA23827_00-CODMW3CONTENT004_DLC_11.pkg"
+        ]
+      },
+      {
+        "nome": "Licença de Disco PS4",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/DLC/PS4%20Disc%20License/UP0002-CUSA23827_00-CODMW3PS4DISC000.pkg"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Call of Duty: Vanguard",
+    "cusa": "CUSA24041",
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202109/2218/JelPN9rNJfDtoQJTwDsa0deG.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202108/2318/laMdtTUhSHB2neSymEjIt5oF.jpg",
+    "url": [
+      "http://cdn.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/BASE/UP0002-CUSA24041_00-CODVTHEGAME00001_BASE_00.pkg"
+    ],
+    "tamanho": "",
+    "regiao": "",
+    "genero": "Tiro",
+    "sinopse": "Call of Duty: Vanguard leva você às batalhas fundamentais da Segunda Guerra Mundial em múltiplos teatros de guerra.",
+    "update": [
+      {
+        "versão": "1.26",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/UPDATE/1.26/UP0002-CUSA24041_00-CODVTHEGAME00001_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": [
+      {
+        "nome": "Base de Campanha",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/DLC/UP0002-CUSA24041_00-CODVCONTENT00001.pkg"
+        ]
+      },
+      {
+        "nome": "Campanha 1",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/DLC/UP0002-CUSA24041_00-CODVCONTENT00002.pkg"
+        ]
+      },
+      {
+        "nome": "Campanha 2",
+        "url": [
+          "http://cdn.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/DLC/UP0002-CUSA24041_00-CODVCONTENT00004.pkg"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Cyberpunk 2077",
+    "cusa": "CUSA16596",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0511/fb9ce1671c6a36fdf1e6548ab8947940f1fc2a1c873ae83d.jpg",
+    "url": [
+      "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/BASE/UP4497-CUSA16596_00-0000000000000004_BASE_00.pkg"
+    ],
+    "tamanho": "",
+    "regiao": "",
+    "genero": "Ação, Aventura, RPG",
+    "sinopse": "Cyberpunk 2077 é um RPG de ação e aventura em mundo aberto ambientado em Night City, uma megalópole obcecada por poder, glamour e modificações corporais.",
+    "update": [
+      {
+        "versão": "1.61",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/UPDATE/1.61/UP4497-CUSA16596_00-0000000000000004_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "nome": "Horizon Zero Dawn: Edição Completa",
+    "cusa": "CUSA10237",
+    "capa": "https://image.api.playstation.com/vulcan/img/rnd/202011/1018/9erXiwu0ozgKGPIUVTuy2siN.png",
+    "background": "https://image.api.playstation.com/vulcan/img/rnd/202009/2923/LyLrdlIfqiVzvynWJGtNfbU8.png",
+    "url": [
+      "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/BASE/UP9000-CUSA10237_00-HRZCE00000000000_BASE_00.pkg"
+    ],
+    "tamanho": "",
+    "regiao": "",
+    "genero": "RPG, Ação",
+    "sinopse": "Assuma o papel de Aloy, uma caçadora habilidosa, e explore um mundo aberto exuberante - e ao mesmo tempo pós-apocalíptico - dominado por máquinas misteriosas.",
+    "update": [
+      {
+        "versão": "1.54",
+        "arquivos": [
+          "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/UPDATE/1.54/UP9000-CUSA10237_00-HRZCE00000000000_UPD_00.pkg"
+        ]
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "nome": "LEGO Star Wars: A Saga Skywalker",
+    "cusa": "CUSA13794",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/huLsTFyulvj2fC0nbRaVUChw.png",
+    "url": [
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_00.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_01.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_02.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_03.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_04.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_05.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_06.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_07.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_08.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_09.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_10.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_11.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_12.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_13.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_14.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_15.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_16.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_17.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_18.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_19.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_20.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_21.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_22.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_23.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_24.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_25.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_26.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_27.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_28.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_29.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_30.pkg",
+      "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_31.pkg"
+    ],
+    "tamanho": "",
+    "regiao": "",
+    "genero": "Ação",
+    "sinopse": "Construa a sua própria história.",
+    "update": [
+      {
+        "versão": "1.09",
+        "arquivos": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/UPDATE/1.09/UP1018-CUSA13794_00-LEGOSWTSS0000000_UPD_00.pkg",
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/UPDATE/1.09/UP1018-CUSA13794_00-LEGOSWTSS0000000_UPD_01.pkg",
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/UPDATE/1.09/UP1018-CUSA13794_00-LEGOSWTSS0000000_UPD_02.pkg"
+        ]
+      }
+    ],
+    "dlcs": [
+      {
+        "nome": "Pacote Livro de Boba Fett",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Book%20of%20Boba%20Fett%20Pack/UP1018-CUSA13794_00-BOBAFETTPACK0001.pkg"
+        ]
+      },
+      {
+        "nome": "Obi-Wan Kenobi Clássico",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Classic%20Obi-Wan%20Kenobi/UP1018-CUSA13794_00-OBIWANPACK000001.pkg"
+        ]
+      },
+      {
+        "nome": "Pacote de Personagens de Rogue One: Uma História Star Wars",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Rogue%20One:%20A%20Star%20Wars%20Story%20Character%20Pack/UP1018-CUSA13794_00-ROGUEONEPACK0001.pkg"
+        ]
+      },
+      {
+        "nome": "Pacote de Personagens de Solo: Uma História Star Wars",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/Solo:%20A%20Star%20Wars%20Story%20Character%20Pack/UP1018-CUSA13794_00-SOLOPACK00000001.pkg"
+        ]
+      },
+      {
+        "nome": "Pacote de Personagens do Bad Batch",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Bad%20Batch%20Character%20Pack/UP1018-CUSA13794_00-BADBATCHPACK0001.pkg"
+        ]
+      },
+      {
+        "nome": "Pacote de Personagens da 1ª Temporada de The Mandalorian",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Mandalorian%20Season%201%20Character%20Pack/UP1018-CUSA13794_00-MANDALORIANPACK1.pkg"
+        ]
+      },
+      {
+        "nome": "Pacote de Personagens da 2ª Temporada de The Mandalorian",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Mandalorian%20Season%202%20Character%20Pack/UP1018-CUSA13794_00-MANDALORIANPACK2.pkg"
+        ]
+      },
+      {
+        "nome": "Pacote de Personagens Andor da Saga Skywalker",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Andor%20Character%20Pack/UP1018-CUSA13794_00-ANDORPACK0000001.pkg"
+        ]
+      },
+      {
+        "nome": "Pacote de Personagens Clássicos da Saga Skywalker",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Classic%20Character%20Pack/UP1018-CUSA13794_00-CLASSICPACK00001.pkg"
+        ]
+      },
+      {
+        "nome": "Pacote de Personagens Obi-Wan Kenobi da Saga Skywalker",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Obi-Wan%20Kenobi%20Character%20Pack/UP1018-CUSA13794_00-KENOBIPACK000001.pkg"
+        ]
+      },
+      {
+        "nome": "Pacote de Personagens Rebeldes da Saga Skywalker",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Rebels%20Character%20Pack/UP1018-CUSA13794_00-REBELPACK0000001.pkg"
+        ]
+      },
+      {
+        "nome": "Pacote de Personagens de Férias de Verão da Saga Skywalker",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Summer%20Vacation%20Character%20Pack/UP1018-CUSA13794_00-HOLIDAYPACK00001.pkg"
+        ]
+      },
+      {
+        "nome": "Pacote de Personagens da Saga Skywalker: The Clone Wars",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20The%20Clone%20Wars%20Character%20Pack/UP1018-CUSA13794_00-CLONEWARSPACK001.pkg"
+        ]
+      },
+      {
+        "nome": "Pacote de Soldados da Saga Skywalker",
+        "url": [
+          "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/DLC/The%20Skywalker%20Saga%20Trooper%20Pack/UP1018-CUSA13794_00 -STORMTROOPERPACK.pkg"
+        ]
+      }
+    ]
+  }
+]
